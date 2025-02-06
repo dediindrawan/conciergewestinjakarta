@@ -1,0 +1,779 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+
+  html,
+  body {
+    @apply scroll-smooth text-primary bg-white;
+  }
+
+  body {
+    @apply text-sm font-poppins leading-relaxed relative after:hidden after:absolute after:w-full after:min-h-screen after:top-0 after:bottom-0 after:z-10 after:bg-black after:bg-opacity-70 lg:text-base;
+  }
+
+  a,
+  button,
+  strong {
+    @apply lg:text-sm;
+  }
+
+  input,
+  textarea {
+    @apply w-full py-2 px-4 rounded-md border border-primary border-opacity-15 bg-transparent focus:outline-none focus:border-opacity-100;
+  }
+
+  textarea {
+    @apply h-32 resize-none;
+  }
+}
+
+@layer components {
+  .container {
+    @apply min-w-full;
+
+    /* ********** navbar area ********** */
+    & .navbar {
+      @apply w-full h-16 p-4 fixed top-0 z-50 flex justify-between items-center border-b border-primary border-opacity-10 bg-white sm:px-12 md:px-20 md:top-12;
+
+      & .logo {
+        & img {
+          @apply w-40 aspect-auto mt-[0.15rem] -ml-[0.9rem] opacity-80;
+        }
+      }
+
+      & button {
+        @apply -mr-1 md:hidden;
+      }
+
+      & .menu-wrapper {
+        @apply max-w-screen-md fixed top-16 bottom-0 -left-full z-50 flex flex-col justify-between gap-8 transition-all duration-300 ease-in-out overflow-y-auto bg-white md:relative md:top-0 md:left-0 md:transition-none md:bg-none;
+
+        & .menu-item {
+          @apply md:flex md:gap-12;
+
+          & li {
+            @apply border-b border-primary border-opacity-10 md:border-b-0;
+
+            & a {
+              @apply inline-block w-full p-4 font-semibold sm:px-12 md:p-0;
+            }
+          }
+        }
+
+        & .menu-contact {
+          @apply md:w-full md:h-12 md:px-20 md:fixed md:top-0 md:left-0 md:flex md:items-center md:text-sm md:text-white md:bg-primary;
+
+          & h3 {
+            @apply p-4 font-semibold sm:px-12 md:p-0 md:font-normal;
+          }
+
+          & li {
+            @apply md:ml-4;
+
+            & a {
+              @apply p-4 flex items-center gap-2 border-t border-primary border-opacity-10 sm:px-12 md:p-0 md:gap-1;
+            }
+          }
+        }
+      }
+    }
+
+    /* ********** jumbotron area ********** */
+    & .jumbotron {
+      @apply min-h-screen pt-16 grid place-items-center bg-cover bg-center relative after:absolute after:w-full after:h-full after:bg-black after:bg-opacity-50 md:justify-start lg:justify-center;
+
+      & .wrapper {
+        @apply max-w-lg px-4 text-white relative z-10 sm:px-12 sm:max-w-2xl md:max-w-6xl md:px-20 lg:w-screen lg:max-w-screen-xl;
+
+        & .before-line,
+        & .after-line {
+          @apply border-white;
+        }
+
+        & h2 {
+          @apply lg:text-4xl;
+        }
+
+        & h1,
+        & p {
+          @apply lg:text-xl;
+        }
+
+        & p {
+          @apply opacity-80;
+        }
+
+        & button {
+          @apply min-w-32 max-w-max mt-4 py-2 px-4 text-center font-semibold rounded-md text-primary bg-secondary;
+        }
+      }
+    }
+
+    /* ********** main home area ********** */
+    & .main-home {
+      @apply pt-20 md:pt-32;
+
+      /* ********** intro area ********** */
+      & .intro {
+        @apply max-w-lg mx-auto px-4 flex flex-col gap-4 sm:px-12 sm:max-w-2xl md:max-w-6xl md:px-20 lg:max-w-screen-xl lg:flex-row lg:items-center lg:gap-8;
+
+        & .intro-text {
+          @apply lg:w-3/5;
+
+          & .before-line {
+            @apply border-primary;
+          }
+
+          & .after-line {
+            @apply border-primary;
+          }
+
+          & figure {
+            @apply mt-4 flex items-center gap-4;
+
+            & img {
+              @apply w-14 aspect-square object-cover object-center rounded-full;
+            }
+
+            & figcaption {
+              & h4 {
+                @apply w-max font-semibold;
+              }
+
+              & small {
+                @apply text-tertiary;
+              }
+            }
+          }
+        }
+
+        & .intro-image {
+          @apply mt-4 flex flex-col items-center gap-4 sm:flex-row sm:items-start md:max-w-3xl md:mx-auto lg:w-2/5 lg:mt-0;
+
+          & img {
+            @apply w-full max-w-sm aspect-video object-cover object-center rounded-md sm:last:mt-8 lg:aspect-square lg:min-h-[14.7rem];
+          }
+        }
+      }
+
+      /* ********** product area ********** */
+      & .product {
+        @apply mt-20;
+
+        & h1,
+        & h2,
+        & h3,
+        & p {
+          @apply max-w-lg mx-auto px-4 sm:px-12 sm:max-w-2xl md:max-w-6xl md:px-20 lg:max-w-screen-xl lg:text-center;
+        }
+
+        & .before-line {
+          @apply border-primary;
+        }
+
+        & .after-line {
+          @apply border-primary;
+        }
+
+        & .wrapper {
+          @apply max-w-lg mx-auto overflow-x-hidden sm:max-w-2xl sm:px-12 md:max-w-6xl md:px-20 lg:max-w-screen-xl lg:text-center;
+
+          & .list {
+            /* scrollbar-width: none; */
+
+            @apply max-w-lg mx-auto pb-4 flex items-center overflow-x-auto snap-x snap-mandatory gap-4 sm:max-w-2xl md:max-w-3xl md:pb-2 lg:max-w-screen-xl;
+
+            & li {
+              @apply min-w-44 min-h-60 max-w-sm snap-start first:ml-4 first:snap-center last:mr-4 sm:w-1/4 sm:flex-grow;
+
+              & figure {
+                @apply relative;
+
+                & img {
+                  @apply w-full min-h-60 object-cover object-center rounded-md;
+                }
+
+                & figcaption {
+                  @apply w-full py-2 px-4 text-center absolute bottom-0 rounded-md backdrop-blur-md text-white bg-primary bg-opacity-50;
+
+                  & h4 {
+                    @apply text-nowrap text-ellipsis overflow-x-hidden;
+                  }
+                }
+              }
+
+              & .detail {
+                @apply hidden;
+              }
+            }
+          }
+
+          & a {
+            @apply inline-block min-w-32 max-w-max mx-4 py-2 px-4 text-center rounded-md text-white bg-primary sm:mx-0 md:mt-2;
+          }
+        }
+      }
+
+      /* ********** gallery area ********** */
+      & .gallery {
+        @apply mt-20 bg-gradient-to-t from-white via-blur-secondary to-white md:mt-32;
+
+        & h1,
+        & h2,
+        & h3,
+        & p {
+          @apply max-w-lg mx-auto px-4 sm:px-12 sm:max-w-2xl md:max-w-6xl md:px-20 lg:max-w-screen-xl lg:text-center;
+        }
+
+        & .before-line {
+          @apply border-primary;
+        }
+
+        & .after-line {
+          @apply border-primary;
+        }
+
+        & .wrapper {
+          @apply max-w-lg mx-auto px-4 sm:max-w-2xl sm:px-12 md:max-w-6xl md:px-20 lg:max-w-screen-xl lg:text-center;
+
+          & ul {
+            @apply max-w-lg mx-auto flex flex-col items-center gap-4 sm:max-w-2xl sm:flex-row sm:flex-wrap md:max-w-3xl lg:max-w-screen-xl;
+
+            & li {
+              @apply max-w-sm sm:w-1/4 sm:flex-grow;
+
+              & figure {
+                @apply relative;
+
+                & img {
+                  @apply w-full aspect-video object-cover object-center rounded-md sm:min-h-40 sm:object-left lg:min-h-full;
+                }
+              }
+            }
+          }
+
+          & .button {
+            @apply max-w-sm mx-auto mt-4 sm:max-w-2xl md:max-w-3xl lg:max-w-screen-xl;
+
+            & a {
+              @apply inline-block min-w-32 max-w-max py-2 px-4 text-center rounded-md text-white bg-primary;
+            }
+          }
+        }
+      }
+
+      /* ********** service area ********** */
+      & .service {
+        @apply max-w-lg mx-auto mt-20 px-4 sm:px-12 sm:max-w-2xl md:max-w-6xl md:mt-32 md:px-20 lg:max-w-screen-xl lg:flex lg:gap-8;
+
+        & .wrapper {
+          @apply lg:w-2/5 lg:order-2;
+
+          & .before-line {
+            @apply border-primary;
+          }
+
+          & .after-line {
+            @apply border-primary;
+          }
+
+          & .table-list {
+            @apply hidden;
+          }
+
+          & a {
+            @apply inline-block min-w-32 max-w-max mt-2 py-2 px-4 text-center rounded-md text-white bg-primary;
+          }
+        }
+
+        & .type-list {
+          @apply max-w-sm mt-4 mx-auto flex flex-col gap-4 sm:max-w-2xl sm:flex-row sm:flex-wrap md:max-w-3xl lg:w-3/5 lg:items-center;
+
+          & li {
+            @apply sm:w-2/5 sm:flex-grow md:max-w-sm lg:flex-grow-0;
+
+            & figure {
+              @apply relative rounded-md border border-primary border-opacity-10;
+
+              & img {
+                @apply w-full aspect-video object-cover object-center rounded-md;
+              }
+
+              & figcaption {
+                @apply py-2 px-4 w-full text-center absolute bottom-0 rounded-md backdrop-blur-md text-white bg-primary bg-opacity-50;
+              }
+            }
+          }
+
+          & li:nth-child(2),
+          & li:nth-child(3) {
+            @apply lg:flex-grow;
+          }
+
+          & li:nth-child(2) img {
+            @apply transform -scale-x-100;
+          }
+        }
+      }
+
+      /* ********** flyer area ********** */
+      & .flyer {
+        @apply max-w-lg mt-20 mx-auto sm:max-w-2xl md:max-w-6xl md:mt-32 lg:max-w-screen-xl;
+
+        & .before-line,
+        & .after-line {
+          @apply hidden;
+        }
+
+        & .wrapper {
+          @apply min-h-60 mx-4 py-8 px-4 rounded-md bg-cover bg-center relative text-white after:absolute after:top-0 after:left-0 after:w-full after:h-full after:rounded-md after:bg-black after:bg-opacity-50 sm:px-8 sm:mx-12 md:mx-20 lg:flex lg:items-center lg:gap-8;
+
+          & span {
+            & h2 {
+              @apply mt-0 relative z-10 lg:text-3xl;
+            }
+
+            & p {
+              @apply relative z-10 opacity-80;
+            }
+          }
+
+          & a {
+            @apply inline-block min-w-32 max-w-max mt-4 py-2 px-4 text-center font-semibold rounded-md text-primary bg-secondary relative z-10 lg:mt-0;
+          }
+        }
+      }
+    }
+
+    /* ********** main product area ********** */
+    & .main-product {
+      @apply mt-20 md:mt-32;
+
+      & .product {
+
+        & h1,
+        & h2,
+        & h3,
+        & p {
+          @apply max-w-lg mx-auto px-4 sm:px-12 sm:max-w-2xl md:max-w-6xl md:px-20 lg:max-w-screen-xl lg:text-center;
+        }
+
+        & .before-line {
+          @apply border-primary;
+        }
+
+        & .after-line {
+          @apply border-primary;
+        }
+
+        & .wrapper {
+          @apply max-w-lg mx-auto overflow-x-hidden sm:max-w-2xl sm:px-12 md:max-w-6xl md:px-20 lg:max-w-screen-xl lg:text-center;
+
+          & .list {
+            /* scrollbar-width: none; */
+
+            @apply max-w-lg mx-auto pb-4 flex overflow-x-auto snap-x snap-mandatory gap-4 sm:max-w-2xl md:max-w-3xl md:pb-2 lg:max-w-screen-xl;
+
+            & li {
+              @apply min-w-64 max-w-sm snap-start first:ml-4 first:snap-center last:mr-4 sm:min-w-96;
+
+              & figure {
+                @apply relative;
+
+                & img {
+                  @apply w-full object-cover object-center rounded-md;
+                }
+
+                & figcaption {
+                  @apply py-2 px-4 w-full text-center absolute bottom-0 rounded-md backdrop-blur-md text-white bg-primary bg-opacity-50;
+                }
+              }
+
+              & .detail {
+                @apply min-h-[18.7rem] -mt-4 pb-4 flex flex-col gap-2 rounded-md bg-primary bg-opacity-10 sm:min-h-[14.45rem] lg:min-h-[16.5rem];
+
+                & li {
+                  @apply px-4 text-start flex flex-col first:mt-8 first:ml-0 first:snap-start;
+                }
+              }
+            }
+          }
+
+          & a {
+            @apply inline-block min-w-32 max-w-max mx-4 py-2 px-4 text-center rounded-md text-white bg-primary sm:mx-0 md:mt-2;
+          }
+        }
+      }
+    }
+
+    /* ********** main gallery area ********** */
+    & .main-gallery {
+      @apply mt-20 md:mt-32;
+
+      & .category-button {
+        @apply max-w-lg mx-auto px-4 flex items-center gap-2 overflow-x-hidden sm:max-w-2xl sm:px-12 md:max-w-6xl md:px-20 lg:max-w-screen-xl;
+
+        & h3 {
+          @apply font-semibold text-nowrap;
+        }
+
+        & ul {
+          scrollbar-width: none;
+
+          @apply flex items-center gap-2 overflow-x-auto snap-x snap-mandatory;
+
+          & li {
+            & button {
+              @apply py-2 px-4 text-xs text-nowrap rounded-md snap-start bg-primary bg-opacity-10;
+            }
+          }
+        }
+      }
+
+      & .subcategory-button {
+        @apply max-w-lg mx-auto mt-8 px-4 overflow-x-hidden sm:max-w-2xl sm:px-12 md:max-w-6xl md:px-20 lg:max-w-screen-xl;
+
+        & h3 {
+          @apply mb-2 font-semibold text-nowrap;
+        }
+
+        & ul {
+          scrollbar-width: none;
+
+          @apply flex items-center gap-2 overflow-x-auto snap-x snap-mandatory;
+
+          & li {
+            & button {
+              @apply py-2 px-4 text-xs text-nowrap rounded-md snap-start bg-primary bg-opacity-10;
+            }
+          }
+        }
+      }
+
+      & .content {
+        @apply max-w-lg mx-auto px-4 sm:max-w-2xl sm:px-12 md:max-w-6xl md:px-20 lg:max-w-screen-xl;
+
+        & .select-field {
+          @apply w-full mt-8 py-2 px-4 text-xs font-semibold rounded-md border border-primary cursor-pointer border-opacity-50 text-tertiary bg-white;
+
+          & option {
+            @apply py-2 px-4 text-tertiary;
+          }
+        }
+
+        & ul {
+          @apply w-full mt-8 grid grid-cols-2 gap-4 md:grid-cols-3 lg:grid-cols-4;
+
+          & li {
+            & a {
+              & figure {
+                @apply relative;
+
+                & img {
+                  @apply w-full h-44 aspect-square object-cover object-center rounded-md;
+                }
+              }
+
+              & h4 {
+                @apply w-full py-2 px-4 text-xs text-center text-nowrap text-ellipsis overflow-x-hidden absolute bottom-0 rounded-md backdrop-blur-md text-white bg-primary bg-opacity-50;
+              }
+            }
+          }
+        }
+      }
+    }
+
+    /* ********** main service area ********** */
+    & .main-service {
+      @apply mt-20 md:mt-32;
+
+      & .service {
+        @apply max-w-lg mx-auto px-4 sm:px-12 sm:max-w-2xl md:max-w-6xl md:px-20 lg:max-w-screen-xl lg:flex lg:gap-8;
+
+        & .wrapper {
+          @apply lg:w-2/5 lg:order-2;
+
+          & .before-line {
+            @apply border-primary;
+          }
+
+          & .after-line {
+            @apply border-primary;
+          }
+
+          & .table-list {
+            @apply w-full text-sm table-auto;
+
+            & caption {
+              @apply mb-4 text-start font-semibold;
+            }
+
+            & thead {
+              & tr {
+                & th {
+                  @apply min-w-full max-w-sm py-2 px-4 border border-primary;
+                }
+              }
+            }
+
+            & tbody {
+              & tr {
+                & td {
+                  @apply min-w-full max-w-sm py-2 px-4 border border-primary;
+                }
+              }
+            }
+          }
+
+          & a {
+            @apply inline-block min-w-32 max-w-max mt-4 py-2 px-4 text-center rounded-md text-white bg-primary;
+          }
+        }
+
+        & .type-list {
+          @apply max-w-sm mt-4 mx-auto flex flex-col gap-4 sm:max-w-2xl sm:flex-row sm:flex-wrap md:max-w-3xl lg:w-3/5 lg:items-center;
+
+          & li {
+            @apply sm:w-2/5 sm:flex-grow md:max-w-sm lg:flex-grow-0;
+
+            & figure {
+              @apply relative rounded-md border border-primary border-opacity-10;
+
+              & img {
+                @apply w-full aspect-video object-cover object-center rounded-md;
+              }
+
+              & figcaption {
+                @apply py-2 px-4 w-full text-center absolute bottom-0 rounded-md backdrop-blur-md text-white bg-primary bg-opacity-50;
+              }
+            }
+          }
+
+          & li:nth-child(2),
+          & li:nth-child(3) {
+            @apply lg:flex-grow;
+          }
+
+          & li:nth-child(2) img {
+            @apply transform -scale-x-100;
+          }
+        }
+
+      }
+    }
+
+    /* ********** main contact area ********** */
+    & .main-contact {
+      @apply mt-20 md:mt-32;
+
+      & .form {
+        @apply max-w-lg mx-auto px-4 flex flex-col gap-4 sm:px-12 sm:max-w-2xl md:max-w-6xl md:px-20 lg:max-w-screen-xl;
+
+        & .input-section {
+          & .error-message {
+            @apply text-xs italic text-red-400;
+          }
+        }
+
+        & button {
+          @apply min-w-32 max-w-max py-2 px-4 text-center rounded-md text-white bg-primary;
+        }
+      }
+    }
+
+    /* ********** footer area ********** */
+    & .footer {
+      @apply mt-20 bg-gradient-to-t from-white via-blur-secondary to-white md:mt-32;
+
+      & .content {
+        @apply max-w-lg mx-auto px-4 text-sm sm:max-w-2xl sm:px-12 md:max-w-6xl md:px-20 md:flex md:justify-between md:gap-8 lg:max-w-screen-xl;
+
+        & .address {
+          @apply md:w-3/5;
+
+          & ul {
+            @apply flex flex-col gap-2;
+
+            & h1 {
+              @apply mb-2 font-playfair-display uppercase text-2xl font-semibold;
+            }
+
+            & li {
+              @apply flex gap-2;
+
+              & span {
+                @apply inline-block mt-[0.15rem];
+              }
+
+              & a {
+                @apply flex items-center gap-2;
+              }
+            }
+          }
+
+          & .button {
+            @apply min-w-32 max-w-max mt-4 py-2 px-4 flex justify-center items-center gap-2 rounded-md text-white bg-primary;
+          }
+        }
+
+        & .extra-link {
+          @apply mt-12 sm:flex sm:justify-between sm:items-start md:mt-1 md:flex-col md:gap-4;
+
+          & ul {
+            @apply flex flex-col gap-2;
+
+            & h3 {
+              @apply mb-2 font-semibold;
+            }
+
+            & li {
+              & a {
+                @apply transition-colors duration-300 ease-in-out hover:text-tertiary;
+              }
+            }
+          }
+
+          & .qr-code {
+            @apply mt-4 flex items-center gap-2 text-tertiary sm:mt-0;
+
+            & img {
+              @apply w-16 aspect-square rounded-md;
+            }
+
+            & figcaption {
+              @apply text-nowrap flex flex-col;
+            }
+          }
+        }
+      }
+
+      & .copyright {
+        @apply w-full mt-12 p-4 inline-block text-xs text-center text-white bg-primary;
+      }
+    }
+  }
+
+  /* ********** gallery detail container area ********** */
+  & .gallery-detail-container {
+    & nav {
+      @apply max-w-lg mx-auto h-16 px-4 text-sm flex items-center relative z-20 sm:max-w-2xl sm:px-12 md:max-w-6xl md:px-20 lg:max-w-screen-xl;
+
+      & button {
+        @apply py-2 px-4 flex items-center gap-1 rounded-md text-white bg-primary;
+      }
+    }
+
+    & header {
+      @apply w-full h-60 fixed top-0 z-10;
+
+      & figure {
+        @apply w-full h-full after:absolute after:w-full after:h-full after:top-0 after:bg-gradient-to-t after:from-white after:to-transparent after:to-25%;
+
+        & img {
+          @apply w-full h-full object-cover object-center opacity-50;
+        }
+      }
+    }
+
+    & main {
+      @apply min-h-screen mt-20 py-8 relative z-10 rounded-t-xl bg-primary bg-opacity-15 backdrop-blur-sm;
+
+      & .title {
+        @apply max-w-lg mx-auto px-4 sm:max-w-2xl sm:px-12 md:max-w-6xl md:px-20 lg:max-w-screen-xl;
+
+        & figure {
+          @apply flex items-start gap-4;
+
+          & img {
+            @apply w-36 h-44 object-cover object-center rounded-md md:w-full md:h-full md:max-w-xs md:aspect-video;
+          }
+
+          & figcaption {
+            & h3 {
+              @apply py-2 px-4 text-lg font-semibold rounded-md bg-white backdrop-blur-sm bg-opacity-15 md:text-2xl;
+            }
+          }
+        }
+      }
+
+      & .detail {
+        @apply max-w-lg mx-auto mt-8 px-4 sm:max-w-2xl sm:px-12 md:max-w-6xl md:px-20 lg:max-w-screen-xl;
+
+        & .wrapper {
+          @apply flex items-center gap-4;
+
+          & a {
+            @apply min-w-32 max-w-max py-2 px-4 text-nowrap flex justify-center items-center gap-2 rounded-md text-white bg-primary sm:text-sm;
+          }
+        }
+
+        & ul {
+          @apply mt-8 flex flex-col gap-4;
+
+          & li {
+            & article {
+              @apply flex flex-col gap-2;
+
+              & p {
+                @apply ml-4;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@layer utilities {
+  body.overlay {
+    @apply overflow-y-hidden after:block !important;
+  }
+
+  .menu-active {
+    @apply text-tertiary;
+  }
+
+  .menu-wrapper-active {
+    @apply left-0 !important;
+  }
+
+  .banner {
+    @apply max-w-lg mt-20 mx-auto sm:max-w-2xl md:max-w-6xl md:mt-32 lg:max-w-screen-xl;
+
+    & .wrapper {
+      @apply min-h-60 mx-4 py-8 px-4 grid place-items-center rounded-md bg-cover bg-center relative text-white after:absolute after:top-0 after:left-0 after:w-full after:h-full after:rounded-md after:bg-black after:bg-opacity-50 sm:px-8 sm:mx-12 md:mx-20 lg:flex lg:justify-center lg:items-center lg:gap-8;
+
+      & .content {
+        @apply text-secondary relative z-10;
+
+        & .before-line,
+        & .after-line {
+          @apply hidden;
+        }
+
+        & h2 {
+          @apply mt-0 text-center;
+        }
+
+        & span {
+          @apply flex justify-center items-center gap-1;
+
+          & a {
+            @apply text-white transition-colors duration-300 ease-in-out hover:text-secondary;
+          }
+        }
+      }
+    }
+  }
+
+  .button-active {
+    @apply text-white bg-opacity-100 !important;
+  }
+}

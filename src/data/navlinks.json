@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "path": "/",
+        "name": "Home"
+    },
+    {
+        "id": 2,
+        "path": "/room-and-suite",
+        "name": "Room & Suite"
+    },
+    {
+        "id": 3,
+        "path": "/spots-gallery",
+        "name": "Spots Gallery"
+    },
+    {
+        "id": 4,
+        "path": "/our-services",
+        "name": "Our Services"
+    },
+    {
+        "id": 5,
+        "path": "/contact-us",
+        "name": "Contact Us"
+    }
+]

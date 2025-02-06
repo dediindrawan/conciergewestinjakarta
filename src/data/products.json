@@ -1,0 +1,81 @@
+{
+    "heading": "Experience Unparalleled Comfort",
+    "title": "Discover Our Elegant Rooms & Suites",
+    "subtitle": "Where Luxury Meets Serenity",
+    "description": "Our thoughtfully designed rooms and suites offer breathtaking city views, premium amenities, and unparalleled comfort. Whether you're here for business or leisure, enjoy a tranquil stay with personalized services to make every moment memorable.",
+    "website": "https://id.westinjakarta.com/",
+    "categories": [
+        {
+            "id": 1,
+            "type": "Westin Room, King",
+            "description": "Designed with a warm natural color palette, featuring the Heavenly® Bed, Heavenly® Bath amenities, and stunning views of Jakarta's dynamic cityscape.",
+            "room_size": "46m²",
+            "bed": "King",
+            "capacity": 3,
+            "poster_path": "https://id.westinjakarta.com/resourcefiles/roomssmallimages/westin-king-room.jpg?version=11132024132351"
+        },
+        {
+            "id": 2,
+            "type": "Westin Room, Twin",
+            "description": "Designed with a warm natural color palette, featuring the Heavenly® Bed, Heavenly® Bath amenities, and stunning views of Jakarta's dynamic cityscape.",
+            "room_size": "46m²",
+            "bed": "Twin",
+            "capacity": 3,
+            "poster_path": "https://id.westinjakarta.com/resourcefiles/roomssmallimages/westin-room-twin.jpg?version=11132024132351"
+        },
+        {
+            "id": 3,
+            "type": "Premium Room, King ",
+            "description": "Enjoy a refreshing stay experience with the Heavenly® Bed and marble bathrooms offering dramatic views of Jakarta's skyline.",
+            "room_size": "56m²",
+            "bed": "King",
+            "capacity": 3,
+            "poster_path": "https://id.westinjakarta.com/resourcefiles/roomssmallimages/premium-room-king.jpg?version=11132024132351"
+        },
+        {
+            "id": 4,
+            "type": "Premium Room, Twin ",
+            "description": "Designed with a warm natural color palette, featuring the Heavenly® Bed, Heavenly® Bath amenities, and stunning views of Jakarta's dynamic cityscape.",
+            "room_size": "56m²",
+            "bed": "Twin",
+            "capacity": 3,
+            "poster_path": "https://id.westinjakarta.com/resourcefiles/roomssmallimages/westin-king-room.jpg?version=11132024132351"
+        },
+        {
+            "id": 5,
+            "type": "Renewal Room, King ",
+            "description": "Enjoy a refreshing stay with the Heavenly® Bed and a modern workspace that enables limitless productivity.",
+            "room_size": "68m²",
+            "bed": "King",
+            "capacity": 3,
+            "poster_path": "https://id.westinjakarta.com/resourcefiles/roomssmallimages/renewal-room.jpg?version=11132024132351"
+        },
+        {
+            "id": 6,
+            "type": "Executive Suite",
+            "description": "Luxurious accommodation featuring a living room, modern workspace, marble dining area and bar for four, along with a walk-in closet for a more comfortable stay experience.",
+            "room_size": "92m²",
+            "bed": "King",
+            "capacity": 3,
+            "poster_path": "https://id.westinjakarta.com/resourcefiles/roomssmallimages/executive-suite.jpg?version=11132024132351"
+        },
+        {
+            "id": 7,
+            "type": "Westin Suite",
+            "description": "Luxurious accommodation on the 66th floor, featuring an elegant living and dining area for eight guests adorned with marble, along with a glamorous bathroom equipped with a whirlpool.",
+            "room_size": "166m²",
+            "bed": "King",
+            "capacity": 3,
+            "poster_path": "https://id.westinjakarta.com/resourcefiles/roomssmallimages/westin-suite.jpg?version=11132024132351"
+        },
+        {
+            "id": 8,
+            "type": "Presidential Suite",
+            "description": "Luxurious accommodation on the 66th floor, featuring an elegant living and dining area for eight guests adorned with marble, along with a glamorous bathroom equipped with a whirlpool.",
+            "room_size": "270m²",
+            "bed": "King",
+            "capacity": 3,
+            "poster_path": "https://id.westinjakarta.com/resourcefiles/roomssmallimages/presidential-suite.jpg?version=11132024132351"
+        }
+    ]
+}

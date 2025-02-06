@@ -1,0 +1,607 @@
+{
+    "heading": "let's tour to the best places recommendation",
+    "title": "Discover Unforgettable Spots in Our Gallery",
+    "subtitle": "Explore Top Destinations for Every Interest",
+    "description": "Explore the best destinations, from top restaurants to cultural landmarks. Whether it's attractions, libraries, museums, or shopping centers, we've got the perfect recommendations for your next adventure.",
+    "categories": [
+        {
+            "id": 1,
+            "thumbnail": "https://i.ibb.co.com/qFW1BXJ6/shopping-center.jpg",
+            "category": "Shopping Center",
+            "data": [
+                {
+                    "id": 5241073,
+                    "name": "Pondok Indah Mall",
+                    "description": "Pondok Indah Mall, abbreviated as PIM, is a large shopping mall complex located in the Pondok Indah suburb of South Jakarta, Indonesia. In January 2017, it was recognised by Forbes as one of the top five shopping malls in Jakarta. The Pondok Indah Mall complex comprises three large main buildings, the older 3-storey PIM1 and the 5-storey PIM2, and the newest building PIM3. PIM 1 and 2 are interconnected via two elevated multi-storey pedestrian walkways (North Skywalk and South Skywalk), which are also tenanted by specialty shops. PIM3, which was officially opened in 2021, is interconnected to the other two buildings by a walkway as well. Each three main buildings (PIM 1, 2, and 3) have different tractions: PIM 1 provides a complete shopping concept with a supermarket on the ground floor and a vast food court, PIM 2 is more focused on upper-class aficionados with numbers of luxurious fashion and lifestyle brands, and PIM 3 becomes the balancer of the concept of both PIM 1 and 2. PIM 1 and 2 each house a cinema complex, both operated by Cinema XXI. There is also an open-air water theme park located adjacent with PIM1, right behind Street Gallery. The Pondok Indah Mall complex has been further developed into a mixed-use development termed as the 'Pondok Indah City Center', which includes apartment towers, office towers, and the InterContinental Jakarta Pondok Indah Hotel & Residences which is adjoined with PIM 2 and comprises approximately 300 hotel rooms and 180 serviced residences.",
+                    "address": "Jl. Metro Pondok Indah No.Kav. 4, Pd. Pinang, Kec. Kby. Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12310",
+                    "website": "https://pondokindahmall.id/",
+                    "gmaps": "https://maps.app.goo.gl/bBdHrkCNg9D4YEK3A",
+                    "poster_path": "https://i.ibb.co.com/6RTbQb02/pondok-indah-mall.jpg",
+                    "background_path": "https://i.ibb.co.com/6RTbQb02/pondok-indah-mall.jpg"
+                },
+                {
+                    "id": 20338006,
+                    "name": "Senayan City Mall",
+                    "description": "Welcome to Senayan City, the premier shopping destination that offers top-tier shopping and lifestyle experiences. The complex comprises a unique combination of prestigious offices, high-end shopping, entertainment, and residences, providing a truly inspiring working, shopping, and living experience. Established in 2006, Senayan City is a leading shopping destination attracting over 24 million visitors annually. With more than 400 stores featuring international premier brands, flagship stores, and unique concept stores, the complex spans an area of 1.2 million square feet. Senayan City has a special place in the hearts of Jakarta society and is now leading the category in delivering the capital lifestyle experience to a wide array of shoppers. In addition to shopping convenience, Senayan City provides parking with a total of 5,000 parking slots. The complex is also home to some of Jakarta's renowned eateries, making it the 'experience' capital. Dining options run the spectrum, satisfying every palate at the latest all-day dining court and the next new dining concept.",
+                    "address": "Jl. Asia Afrika No.Lot 19, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+                    "website": "https://senayancity.com/",
+                    "gmaps": "https://maps.app.goo.gl/MGXdMTmcSsme1gLP7",
+                    "poster_path": "https://i.ibb.co.com/cX15fRt2/senayan-city.jpg",
+                    "background_path": "https://i.ibb.co.com/hxYs5FLg/senayan-city-bg.jpg"
+                },
+                {
+                    "id": 233685392,
+                    "name": "Plaza Indonesia Mall",
+                    "description": "Large 7-story shopping mall with high-end boutiques, food outlets & supermarkets.",
+                    "address": "Jl. M.H. Thamrin No.Kav.28-30, Gondangdia, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350",
+                    "website": "https://www.plazaindonesia.com/",
+                    "gmaps": "https://maps.app.goo.gl/XjDNgeAdTKd2LUdf9",
+                    "poster_path": "https://i.ibb.co.com/Jwpx0y86/plaza-indonesia.jpg",
+                    "background_path": "https://i.ibb.co.com/JjWWKFbS/plaza-indonesia-bg.jpg"
+                },
+                {
+                    "id": 156533012,
+                    "name": "Pacific Place Mall",
+                    "description": "Situated in the heart of the Sudirman Central Business District (SCBD), Pacific Place Jakarta sets the benchmark for high end lifestyle living and entertainment. Boasting a modern architecture with excellent access, Pacific Place Jakarta serves as the forefront shopping destination for Jakartans. It is connected to the Ritz-Carlton Hotel and offers fresh and exciting developments for its upscale shopping center, luxurious apartments, and office tower. There is also a grand multifunction hall which caters for operas, concerts, live performances and social events. With its plethora of irresistible attractions, Pacific Place Jakarta is your one-stop destination for elegance and luxurious shopping.",
+                    "address": "Jl. Jend. Sudirman kav 52-53, Senayan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190",
+                    "website": "https://www.pacificplace.co.id/",
+                    "gmaps": "https://maps.app.goo.gl/ms944AaQcv6pdzV29",
+                    "poster_path": "https://i.ibb.co.com/k2Kkkn1g/pacific-place-mall.jpg",
+                    "background_path": "https://i.ibb.co.com/7tByq8pm/pacific-place-mall-bg.jpg"
+                },
+                {
+                    "id": 187357338,
+                    "name": "Grand Indonesia Mall",
+                    "description": "Grand Indonesia is one of the largest premium malls in Indonesia, offering an International shopping experience and a wide range of fashion apparel, restaurants, and entertainment choices. The mall consists of East Mall and West Mall linked by the Skybridge with a total area of 263.226 sqm and ± 140.000 sqm of leasable area. Nestled in the heart of Jakarta at Bundaran HI, Grand Indonesia is an integrated development comprising of a 56 floors premium-grade office tower – Menara BCA, the five-star all-suite Hotel Indonesia Kempinski Jakarta, and a high-end serviced residential tower – Kempinski Private Residences. Grand Indonesia first opened its door to the public in 2007 and was officially inaugurated on 20 May 2009 with the vision of becoming “The shopping landmark of Indonesia”.",
+                    "address": "Jl. MH Thamrin No.1, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",
+                    "website": "https://www.grand-indonesia.com/",
+                    "gmaps": "https://maps.app.goo.gl/4QQDrKUeauAy62Cx9",
+                    "poster_path": "https://i.ibb.co.com/0y0RhpnY/grand-indonesia.webp",
+                    "background_path": "https://i.ibb.co.com/ksrJWx27/grand-indonesia-bg.jpg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "thumbnail": "https://i.ibb.co.com/XftjML0p/thumbnail-attraction.jpg",
+            "category": "Attraction",
+            "data": [
+                {
+                    "id": 84992424,
+                    "name": "Monumen Nasional",
+                    "description": "National Monument or abbreviated as Monas or Monument Monas is a 132-meter-high memoriguation monument located right in the middle of Medan Merdeka Square, Central Jakarta.",
+                    "address": "Merdeka Square, Jalan Lapangan Monas, Gambir, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110",
+                    "website": "https://www.museumnasional.or.id/",
+                    "gmaps": "https://maps.app.goo.gl/dMocyo6FeSCsVhTG9",
+                    "poster_path": "https://i.ibb.co.com/3yCQrmKH/monas.jpg",
+                    "background_path": "https://i.ibb.co.com/NQf1Zyg/monas-bg.jpg"
+                },
+                {
+                    "id": 32647721,
+                    "name": "Kota Tua Jakarta",
+                    "description": "Kota Tua Jakarta, also known as Batavia Lama (Oud Batavia), is a small area in Jakarta, IndonesiaIndonesia. This special area has an area of 1.3 square kilometers across North Jakarta and West Jakarta (Pinangsia, Taman Sari and Roa Malacca). Dutied Asia Gem and The Queen of the East in the 16th century by European sailors, Old Jakarta is considered a trading center for the Asian continent because of its strategic location and abundant resources. In 1526, Fatahillah, sent by the Sultanate of Demak, attacked the port of Sunda Kelapa in the Hindu kingdom of Pajajaran, then named Jayakarta. The city is only 15 hectares and has a traditional Javanese port city layout. In 1619, the VOC destroyed Jayakarta under the command of Jan Pieterszoon Coen. One year later, the VOC built a new city called Batavia in honor of Batavieren, the ancestors of the Dutch. The city is centered around the east bank of the Ciliwung River, currently Fatahillah Square. Batavia inhabitants are called Batavianen, then known as the Betawi tribe, composed of ethnic kreol which is descended from various ethnicities that inhabit Batavia.",
+                    "address": "Jl. Pintu Besar Utara No.27, RT.7/RW.7, Kota Tua, Pinangsia, Tamansari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta",
+                    "website": "",
+                    "gmaps": "https://maps.app.goo.gl/V4Uaa1uJM4qCTvnG6",
+                    "poster_path": "https://i.ibb.co.com/HR75Hpc/kota-tua.jpg",
+                    "background_path": "https://i.ibb.co.com/JRR9pZBt/kota-tua-bg.jpg"
+                },
+                {
+                    "id": 53220074,
+                    "name": "Taman Mini Indonesia Indah",
+                    "description": "Thousands of customs and cultures paint stories in every corner of the country from Sabang to Merauke, presenting identity as the image of every region in the archipelago. His variety inspired former Motherland Siti Hartinah, or familiarly called Mrs. Tien Soeharto, to confirm the establishment of Taman Mini Indonesia Indah or TMII. Starting from the dream of a Mother of the State who wants to bring his people to explore the story of Indonesia in an open park, TMII was born and incensed in April 1975 as an area of preservation and cultural development of the nation. The diversity of 33 provinces in Indonesia is packaged in the form of miniature archipelago, regional platforms, traditional buildings and architecture, regional arts, recreation parks, and various kinds of rides. An area of 150 hectares is transformed into an art stage, recreation, and educational facilities for visitors from various age ranges. For decades, until finally on September 1, 2023, TMII presented a new face of innovative and revolutionary TMII. #Wajah BaruTMII carries four pillars, namely green green(green), inclusive inclusive(inclusive), culture (culture), and smart (smart). The green pillar on TMII presents an eco-park that 70 percent of the area is a green park that lacks emissions. Inclusive pillars include all walks of life to share in cultural offerings, while the culture pillar culturepresents a tourist destination that summarizes the pattern of culture and art and makes the main cast visitors in every activity in TMII. Lastly, the smart pillar complements TMII's new face through the easy and practical implementation of the digital platform for TMII exploration. Let’s explore the exciting Indonesian story there is no end in TMII.",
+                    "address": "Jl. Taman Mini Indonesia Indah, Ceger, Kec. Cipayung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13820",
+                    "website": "https://tamanmini.com/taman_jelajah_indonesia/",
+                    "gmaps": "https://maps.app.goo.gl/8kdtXzphmXU8iNzJ9",
+                    "poster_path": "https://i.ibb.co.com/RTh8KZxC/taman-mini-indonesia-indah.jpg",
+                    "background_path": "https://i.ibb.co.com/Rk84vK7V/taman-mini-indonesia-indah-bg.jpg"
+                },
+                {
+                    "id": 12303560,
+                    "name": "Masjid Istiqlal",
+                    "description": "After Indonesia’s independence in 1945, the great idea to build a mosque that can be a place of pride in the citizens of Jakarta as well as a place to worship has settled in the hearts of Indonesians. KH. Wahid Hashim, the first Minister of Religious Affairs and several scholars proposed to establish a mosque that is able to be a symbol for Indonesia. In 1953, KH. Wahid Hashim, as the first Minister of Religious Affairs with H. Agus Salim, Anwar Tjokroaminoto and Ir. Sofwan and assisted by about 200 Islamic leaders KH. Taufiqorrahman proposed to set up a foundation. On December 7, 1954, the foundation of the Istiqal Mosque was established which was chaired by H. Tjokroaminoto to realize the idea of building the national mosque. Istiqlal Mosque is the largest mosque in Southeast Asia. This mosque is the pride of the Indonesian nation, and as an expression and form of gratitude of the nation and the people of Indonesia who are majority Muslim, for the blessings and grace of Allah SWT who has bestowed the blessings of independence from the clutches of the invaders for approximately 350 years. Therefore, this mosque is called ISTIQLAL which means INDERCEREE. The idea of building a mosque was sparked after four years of proclamation of independence. In 1950, KH. Wahid Hashim who was then minister of religion of the Republic of Indonesia and H. Anwar Tjokroaminoto and the Islamic Company Party held a meeting with a number of Islamic leaders to meet a number of Islamic leaders in Deca Park, a meeting building on the North Merdeka street. The meeting was chaired by KH. Taufiqurrahman discussed the planned construction of the mosque. The mosque was agreed to be named Istiqlal. Literally, the word Istiqlal comes from the Arabic language which means: freedom, detachment or independence, which in term describes gratitude to Allah SWT for the abundance of grace in the form of freedom of the nation.",
+                    "address": "Jl. Taman Wijaya Kusuma, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",
+                    "website": "https://www.istiqlal.or.id/",
+                    "gmaps": "https://maps.app.goo.gl/NzTxyWpjsPm7DeM97",
+                    "poster_path": "https://i.ibb.co.com/WWz0nMYd/masjid-istiqlal.jpg",
+                    "background_path": "https://i.ibb.co.com/fYL5mfxP/masjid-istiqlal-bg.jpg"
+                },
+                {
+                    "id": 15909345,
+                    "name": "Ancol Dreamland",
+                    "description": "Ancol, located in Jakarta, is one of Indonesia's top family destinations, offering endless entertainment for all ages. Spanning beautiful beaches, thrilling amusement parks, and unique attractions, Ancol is a haven for relaxation and excitement. Here’s our ultimate guide to 20 unforgettable activities you can experience at Ancol.",
+                    "address": "Jl. Lodan Timur No.7, RT.14/RW.10, Ancol, Kec. Pademangan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
+                    "website": "https://www.ancol.com/blog/ancol-dreamland-jakarta/",
+                    "gmaps": "https://maps.app.goo.gl/osS4KK83qXs52aV86",
+                    "poster_path": "https://i.ibb.co.com/Kxjp5QmY/ancol.webp",
+                    "background_path": "https://i.ibb.co.com/hGByzCL/ancol-bg.jpg"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "thumbnail": "https://i.ibb.co.com/7NWmdfWQ/thumbnail-restaurant.jpg",
+            "category": "Restaurant",
+            "subcategories": [
+                {
+                    "id": 1,
+                    "subcategory": "Indonesian",
+                    "data": [
+                        {
+                            "id": 211327860,
+                            "name": "Plataran Menteng",
+                            "description": "Set in a beautifully restored Dutch colonial house and known for traditional Indonesian cuisine with authentic flavors and refined presentations, Plataran Menteng offers an elegant dining experience that celebrates Indonesia’s rich heritage. Each of its three floors showcases a blend of Indonesian and colonial architecture, surrounded by lush gardens and courtyards.",
+                            "address": "Jl. H.O.S. Cokroaminoto No. 42, Menteng Jakarta Pusat 10350",
+                            "website": "https://plataran.com/property/plataran-menteng",
+                            "gmaps": "https://maps.app.goo.gl/qbKrgSrksjZ1u9Nu9",
+                            "poster_path": "https://i.ibb.co.com/LzdPxfBV/plataran-menteng.webp",
+                            "background_path": "https://i.ibb.co.com/84zDRGYz/plataran-menteng-menu.webp"
+                        },
+                        { 
+                            "id": 43260378,
+                            "name": "The Tugu Kunstkring Paleis",
+                            "description": "Living up to its rich history, The Tugu Kunstkring Paleis features a wide range of menu from Western cuisines, Southeast Asian flair, and authentic Indonesian dishes. The restaurant also has a cake and coffee corner, alongside a bar with vast fine wines collection. Adjacent to the restaurant is a gallery shop that carries beautiful artworks, jewels, lifestyle products and other design items.",
+                            "address": "Jl. Teuku Umar No. 1, RT.1 / RW.1, Gondangdia, Menteng, DKI Jakarta",
+                            "website": "https://tuguhotels.com/restaurants/jakarta/kunstkring",
+                            "gmaps": "https://maps.app.goo.gl/o5qavDg4TxnDToke9",
+                            "poster_path": "https://i.ibb.co.com/C3Z2kWHn/the-tugu-kunstkring-paleis.jpg",
+                            "background_path": "https://i.ibb.co.com/fYM14q9W/the-tugu-kunstkring-paleis-menu.webp"
+                        },
+                        {
+                            "id": 234914430,
+                            "name": "Bunga Rampai",
+                            "description": "Step into Bunga Rampai, a culinary haven where each dish tells a story. Nestled in the heart of Jakarta, our restaurant is a celebration of Indonesian cuisine, crafted with love and served with pride.",
+                            "address": "Jl. Teuku Cik Ditiro No.35 10, RT.10/RW.5, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",
+                            "website": "https://bungarampai.restaurant/",
+                            "gmaps": "https://maps.app.goo.gl/XSr95cqjdZkgRrtc8",
+                            "poster_path": "https://i.ibb.co.com/ZzTb5X2M/bunga-rampai.jpg",
+                            "background_path": "https://i.ibb.co.com/xq5vMJ2D/bunga-rampai-menu.png"
+                        },
+                        {
+                            "id": 28686436,
+                            "name": "Kaum",
+                            "description": "Kaum, meaning “clan” or “tribe” in Indonesian, is an authentic Indonesian restaurant from the Potato Head Family. Before launching the first two outlets in Hong Kong and then Bali, the team behind Kaum embarked on an exotic culinary expedition, travelling across the archipelago to learn about the indigenous cooking methods, exotic ingredients, and authentic flavours of Indonesia’s tribal communities.",
+                            "address": "Jl. Dr. Kusuma Atmaja No.77, RT.10/RW.4, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",
+                            "website": "https://www.kaum.com/jakarta",
+                            "gmaps": "https://maps.app.goo.gl/hyicJ3w8iFobQPFE8",
+                            "poster_path": "https://i.ibb.co.com/TqHZKsQV/kaum.jpg",
+                            "background_path": "https://i.ibb.co.com/KjpmQ53D/kaum-menu.jpg"
+                        }, 
+                        {
+                            "id": 187869303,
+                            "name": "Remboelan Kota Kasablanka",
+                            "description": "-",
+                            "address": "Food Society, Kota Kasablanka, Jl. Raya Casablanca Mall No.88 Ground Floor Unit 19, RT.16/RW.5, Menteng Dalam, Kec. Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12960",
+                            "website": "",
+                            "gmaps": "https://maps.app.goo.gl/KPuWZzzN2ixJ9tea9",
+                            "poster_path": "https://i.ibb.co.com/LfynHdp/remboelan.webp",
+                            "background_path": "https://i.ibb.co.com/TBDvHcDB/remboelan-menu.webp"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "subcategory": "Japanese",
+                    "data": [
+                        {
+                            "id": 32248534,
+                            "name": "Sushi Tei",
+                            "description": "Established in 2003, SUSHI TEI GROUP has been dedicated to bringing the authentic flavors of Japan to Indonesia. As a leading and innovative company providing quality Japanese cuisine with excellent services, we take pride in offering an exquisite dining experience for our valued customers. With a strong focus on Japanese cuisine, we have grown steadily and currently operate in 15 major cities in Indonesia, with a wide network of 100 restaurants. We are committed to expanding our presence further in the coming years, aiming to share our passion for Japanese cuisine with even more communities.",
+                            "address": "Grand Indonesia, Jl. M.H. Thamrin No.1 #01, Kb. Melati, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",
+                            "website": "https://sushiteigroup.co.id/",
+                            "gmaps": "https://maps.app.goo.gl/2B14YNobsokKbcfy7",
+                            "poster_path": "https://s3.cosmopolitan.co.id/e5f851996c23d3d1f6552415c31e19aa.jpg",
+                            "background_path": "https://www.grand-indonesia.com/wp-content/uploads/2019/10/Sushi-Tei.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "subcategory": "Chinese",
+                    "data": [
+                        {
+                            "id": 37678318,
+                            "name": "Din Tai Fung",
+                            "description": "Din Tai Fung is a Taiwanese restaurant known as the delights of Xiao Long Bao, a steamed dumpling in which there is a special gravy that adds to the enjoyment of dumplings. After leaving the cooking oil business that the couple Binyi Yang and Penmei Lai in the 1980s, DinTaiFung began selling Xiao Long Bao at his first restaurant on Xinyi street, Taipei.",
+                            "address": "Jl. Jenderal Sudirman No.Kav. 52-53, RT.6/RW.14, Kb. Baru, Kec. Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12830",
+                            "website": "https://www.dintaifung.co.id",
+                            "gmaps": "https://maps.app.goo.gl/8L9y87NftvpYmvHb8",
+                            "poster_path": "https://lh3.googleusercontent.com/p/AF1QipMdB48uby9ftnP7RYog9D_dKDa6jCcPwwnmismS=s680-w680-h510",
+                            "background_path": "https://lh3.googleusercontent.com/p/AF1QipOv5eXQzxKiJ9cBzUqwW8kJe-xhtrEPhjlnsUMX=s680-w680-h510"
+                        },
+                        {
+                            "id": 13973726,
+                            "name": "Paradise Dinasty Imperial",
+                            "description": "Bask in Paradise’s Dynasty’s lavish nuance, designed in intricate details to truly capture the majestic prowess of Imperial China through contemporary lenses. The restaurant is adorned with textured wood pillars andwall panels made from 100 year old timber, and decorated with grand colors and stylish lightning to evoke a mood of opulence and extravagance.",
+                            "address": "Plaza Senayan Lt. P5 Unit CP 512 - 513 Jalan Asia Afrika. 8, Jl. Pintu Satu Senayan RW No.RT.001 003, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+                            "website": "https://paradisedynasty.id/",
+                            "gmaps": "https://maps.app.goo.gl/yEwCZe2UhxhJxmMd6",
+                            "poster_path": "https://lh3.googleusercontent.com/p/AF1QipPjC35DNMno5yY2LoFdJftX_0JTY7zbrqO_6VYI=s680-w680-h510",
+                            "background_path": "https://lh3.googleusercontent.com/p/AF1QipPeZt5aq16q0FkjBmMHWJHRjzlym18SKU4_4sap=s680-w680-h510"
+                        },
+                        {
+                            "id": 9888797,
+                            "name": "Taste Of Paradise",
+                            "description": "Exquisite dining experience of premium Cantonese delicacies.",
+                            "address": "Plaza Indonesia South Gate, Jl. M.H. Thamrin No.5 Lantai 4/#01, RT.9/RW.5, Gondangdia, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350",
+                            "website": "",
+                            "gmaps": "https://maps.app.goo.gl/J2BmsNndTBvP6mSX8",
+                            "poster_path": "https://lh3.googleusercontent.com/p/AF1QipOkymf-Mp5-ei8RbPhPFGSGsDGgG0hoGrBpIPE=s680-w680-h510",
+                            "background_path": "https://lh3.googleusercontent.com/p/AF1QipNzcZVgm4KjfD5fP0RxuQeflgZ3Ox7d2MMh0eJo=s680-w680-h510"
+                        },
+                        {
+                            "id": 45196193,
+                            "name": "Crystal Jade La Mian Xiao Lao Bao",
+                            "description": "-",
+                            "address": "Plaza Senayan, Jl. Asia Afrika No.8 LT. 3, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+                            "website": "https://www.crystaljade.com/",
+                            "gmaps": "https://maps.app.goo.gl/YCSRjBqpV23oM3qK9",
+                            "poster_path": "https://lh3.googleusercontent.com/p/AF1QipNOtbzEdV03lrZrXyLM3eseIusXjfbIf8SkZnA=s680-w680-h510",
+                            "background_path": "https://lh3.googleusercontent.com/p/AF1QipOZUh9rKOtO1OKInKeZd8_xVSWcbCeHhmAG1ocD=s680-w680-h510"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "subcategory": "Arabian",
+                    "data": [
+                        {
+                            "id": 199783702,
+                            "name": "Al Nafoura Lebanese",
+                            "description": "Welcome to Al Nafoura, the ultimate destination for an authentic Lebanese culinary experience right in the heart of Le Meridien Jakarta. We take pride in offering a diverse selection of Lebanese cuisines, meticulously crafted with the highest quality ingredients and prepared by our talented and experienced chef specializing in Middle Eastern flavors.",
+                            "address": "Le Méridien Jakarta, Jl. Jenderal Sudirman No.Kav.18-20 Lt. Dasar, Karet Tengsin, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10220",
+                            "website": "https://www.alnafourarestaurant.com/",
+                            "gmaps": "https://maps.app.goo.gl/KQSaE6PnxwmsRqwU7",
+                            "poster_path": "https://i.ibb.co.com/Xf69g5Bj/al-nafoura-lebanese.jpg",
+                            "background_path": "https://i.ibb.co.com/XrFz2MRt/al-nafoura-lebanese-menu.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "subcategory": "Germany",
+                    "data": [
+                        {
+                            "id": 216980473,
+                            "name": "Paulaner Brauhaus",
+                            "description": "Welcome to Paulaner Bräuhaus Jakarta, the only microbrewery restaurant in the country, crafting an authentic Bavarian experience right in the heart of Jakarta. With a spacious 200-seat capacity, we offer a haven for those craving traditional Bavarian cuisine paired with our renowned German beer, brewed using only the finest imported ingredients.",
+                            "address": "Grand Indonesia, Jl. MH Thamrin No.1, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",
+                            "website": "https://www.kempinski.com/en/hotel-indonesia/restaurants-bars/paulaner-braeuhaus?utm_medium=organic&utm_source=google&utm_campaign=KIJKT1&utm_content=gmb-restaurant&source=S308962248",
+                            "gmaps": "https://maps.app.goo.gl/xL2DSNxip2QRmFyw9",
+                            "poster_path": "https://i.ibb.co.com/99tYp6HL/paulaner-brauhaus.jpg",
+                            "background_path": "https://i.ibb.co.com/6JmsV1R3/paulaner-brauhaus-menu.jpg"
+                        },
+                        {
+                            "id": 39070950,
+                            "name": "Die Stube",
+                            "description": "Founded in August 2004, Die Stube is Jakarta's oldest existing German food and beverage establishment. Tucked in a small venue within Kemang, it is the ideal location for many friends and family to enjoy some quality time. Once a small pub and grub, Die Stube has became a favorable destination for sport nights such as live screenings of World Cup and European games.",
+                            "address": "Plaza Bisnis Kemang, Jl. Kemang Raya No.2, RT.14/RW.1, Bangka, Kec. Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12730",
+                            "website": "https://www.stube-group.com/",
+                            "gmaps": "https://maps.app.goo.gl/286CSCJAi6GTsZicA",
+                            "poster_path": "https://media-cdn.tripadvisor.com/media/photo-s/22/69/05/7f/view-from-the-front-very.jpg",
+                            "background_path": "https://media-cdn.yummyadvisor.com/store/d3f785bd-40d9-4eca-9f98-72731ec0cd88.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "subcategory": "Italian",
+                    "data": [
+                        {
+                            "id": 30000651,
+                            "name": "Osteria Gia",
+                            "description": "Bringing a twist to the concept of classic Italian eateries, we combine a fresh contemporary vibe with authentic home-cooked Italian dishes. Serving the tastiest and most rustic Italian delicacies, Osteria GIA combines the charm of old Italian villages with home-cooked Italian meals. The carefully crafted menu, created by our very own Chef Tommaso Gonfiantini, takes everyone on a culinary journey with the richest of Italian flavors. To complement our pasta and pizza, we also offer Italian cocktails and a wide selection of fine wines from all corners of the world.",
+                            "address": "Jl. M.H. Thamrin No.30, RT.9/RW.5, Gondangdia, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350",
+                            "website": "",
+                            "gmaps": "https://maps.app.goo.gl/HEY5BejfHCR2e8UF8",
+                            "poster_path": "https://lh3.googleusercontent.com/p/AF1QipN8S41KywlDQjEDbSSiNKrYInFoSTfZbMlnIFJx=s680-w680-h510",
+                            "background_path": "https://lh3.googleusercontent.com/p/AF1QipMNi5e_AGLgvdxWVR4aLeHteK9UfjsGPbrwnJU7=s680-w680-h510"
+                        },
+                        {
+                            "id": 20407962,
+                            "name": "Cafe Milano",
+                            "description": "A classic Italian trattoria, serving handmade pastas and authentic pizzas accompanied by Italian cocktails and an extensive wine list.",
+                            "address": "Central Dept. Store Ground Floor Grand Indonesia East Mall, Jl. M.H. Thamrin No.1, RT.1/RW.5, Menteng, Daerah Khusus Ibukota Jakarta 10310",
+                            "website": "https://new.uniongroupjakarta.com/restaurant/caffe-millano",
+                            "gmaps": "https://maps.app.goo.gl/f7jt2GKyL6Z7gUvbA",
+                            "poster_path": "https://lh3.googleusercontent.com/p/AF1QipOg64NVgUD_XeKp3Hl5QObXyOu-UCykclhMb9nT=s680-w680-h510",
+                            "background_path": "https://lh3.googleusercontent.com/p/AF1QipPTXDcqshlUoNsAHUIcOQwfR_cNAyd6GQ9Koml7=s680-w680-h510"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "thumbnail": "https://i.ibb.co.com/mCN8BRw7/rooftop-lounge-bar.jpg",
+            "category": "Rooftop & Lounge",
+            "data": [
+                {
+                    "id": 108152670,
+                    "name": "Henshin",
+                    "description": "Henshin serves authentic Nikkei cuisine, a bold combination of Peruvian and Japanese cuisine that reflects a rich cultural history and diversity and reinventing traditions since the late 19th century. Henshin invites you to savor the eclectic flavors of Peru infused with the meticulous Japanese cooking technique for a remarkable gastronomic experience. ",
+                    "address": "Level 67-69, The Westin Jakarta Jalan H.R. Rasuna Said Kav. C-22A, RT.2/RW.5, Karet Kuningan, Setiabudi, South Jakarta City, Jakarta 12940",
+                    "website": "https://www.henshinjakarta.com/",
+                    "gmaps": "https://maps.app.goo.gl/q8jyY3y8NwTYoTgz6",
+                    "poster_path": "https://i.ibb.co.com/xqBqdNtM/henshin.jpg",
+                    "background_path": "https://i.ibb.co.com/pv1pcw6s/henshin-menu.jpg"
+                },
+                {
+                    "id": 213773193,
+                    "name": "Skye Rooftop Bar & Restaurant",
+                    "description": "Welcome to Skye, your ultimate destination for all your lifestyle needs. Experience the largest collection of premium meats, breathtaking views, and innovative entertainment, creating epic parties and unforgettable moments with your loved ones. Every evening at Skye is a celebration, where every occasion is honored with style and flair. Under the expert guidance of Chef Andy Gozali, our carefully curated menu will take your taste buds to new heights. Enjoy the mesmerizing view of Jakarta’s skyline as you indulge in our exquisite offerings. At Skye, we elevate your dining and entertainment experience to create memories that last a lifetime.",
+                    "address": "BCA Tower Lt. 56, Jl. M.H. Thamrin No. 1, RT.001 / RW.005, Menteng, RT.1/RW.5, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350",
+                    "website": "https://www.ismaya.com/eat-drink/skye",
+                    "gmaps": "https://maps.app.goo.gl/J7FpqxyB6UK93XNW8",
+                    "poster_path": "https://i.ibb.co.com/XrmNxfTv/skye.jpg",
+                    "background_path": "https://i.ibb.co.com/DDb4GYMs/skye-bg.jpg"
+                },
+                {
+                    "id": 189046074,
+                    "name": "Hause Rooftop Kitchen & Bar",
+                    "description": "Offering a rooftop experience minutes away from the heart of the city, this peaceful hideaway is the perfect place for your next event! Host your celebration surrounded by greenery of a rooftop view and a dash of golden sunshine.",
+                    "address": "Md Place, Jl. Setia Budi Selatan No.7 Tower 2 Lt. 6, RT.5/RW.1, Kuningan, Setia Budi, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12910",
+                    "website": "http://www.hausemade.com/",
+                    "gmaps": "https://maps.app.goo.gl/ux9thtwSGnNkN8nt5",
+                    "poster_path": "https://i.ibb.co.com/xtJPDvmL/hause-rooftop.jpg",
+                    "background_path": "https://i.ibb.co.com/XM3f1BD/hause-rooftop-bg.jpg"
+                },
+                {
+                    "id": 120848856,
+                    "name": "La Vue Rooftop Bar",
+                    "description": "Treat yourself to 360-degree views of Jakarta, Indonesia, as you sip on crafted cocktails and snack on small-plate delicacies. La Vue Rooftop Bar is a romantic destination providing any dining couple with the perfect ice breaker.",
+                    "address": "The Hermitage, a Tribute Portfolio Hotel, Jakarta, Jl. Cilacap No.1, RT.11/RW.5, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",
+                    "website": "https://www.marriott.com/en-us/dining/restaurant-bar/jkttx-the-hermitage-a-tribute-portfolio-hotel-jakarta/6064930-la-vue-rooftop-bar.mi",
+                    "gmaps": "https://maps.app.goo.gl/AVNe6URnXVvpDrom7",
+                    "poster_path": "https://i.ibb.co.com/4RDnZ7VY/la-vue-rooftop-bar.jpg",
+                    "background_path": "https://i.ibb.co.com/ycz8jt6w/la-vue-rooftop-bar-bg.webp"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "thumbnail": "https://i.ibb.co.com/0yMGMWrP/thumbnail-library.jpg",
+            "category": "Library",
+            "data": [
+                {
+                    "id": 192583660,
+                    "name": "Perpustakaan Nasional Republik Indonesia",
+                    "description": "The National Library of the Republic of Indonesia (abbremind Perpusnas) is a Non-Ministree Government Institution that carries out governmental duties in the field of libraries that serves as perpustakaana library of builders, reference libraries, deposit libraries, research libraries, preservation libraries, and library networking centers, and are located in the capital of the country. The National Library Service Facility Building is located on Jalan Medan Merdeka Selatan No.11, Jakarta and most of its offices on Jalan Salemba Raya No. 28A. The National Library is under and accountable to Presidenthe President. On September 14, 20172017, President Joko Widodo inaugurated the new Perpusnas Service Facility Building which is the world's tallest national library (126.3 meters) with 24 floors, plus three floors of underground parking (basement).",
+                    "address": "Jl. Medan Merdeka Sel. No.11, Gambir, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110",
+                    "website": "https://perpusnas.go.id/",
+                    "gmaps": "https://maps.app.goo.gl/Je6m1PrnE9dR6LEBA",
+                    "poster_path": "https://i.ibb.co.com/HmfS3Qm/perpustakaan-nasional-republik-indonesia.jpg",
+                    "background_path": "https://i.ibb.co.com/gbY9HhCt/perpustakaan-nasional-republik-indonesia-bg.jpg"
+                },
+                {
+                    "id": 22941979,
+                    "name": "Perpustakaan Umum DKI Jakarta",
+                    "description": "-",
+                    "address": "Gedung Nyi Ageng Serang, Gedung Nyi Ageng Serang Lantai 7-8, I.H.R. Rasuna Said Kav. C-22, Setiabudi, RT.2/RW.5, Karet Kuningan, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12940",
+                    "website": "",
+                    "gmaps": "https://maps.app.goo.gl/JcTFqxgBkhmH7jUB9",
+                    "poster_path": "https://lh3.googleusercontent.com/p/AF1QipP496K43z4kyJso_QjeFfqlODyiu8csdihvJXKV=s680-w680-h510",
+                    "background_path": "https://lh3.googleusercontent.com/p/AF1QipOP3X4VyhntCsGXWr5KfpEcvMaW8XJEN8LbKMBU=s680-w680-h510"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "thumbnail": "https://i.ibb.co.com/gbYLr3PC/thumbnail-hospital.jpg",
+            "category": "Hospital",
+            "data": [
+                {
+                    "id": 65102523,
+                    "name": "MMC Hospital",
+                    "description": "Originally born as a Medical Center (Health Service Center) Joint Specialist Doctors' Clinic, the first in Indonesia, namely at the Wisata International Office Tower Annex Hotel Indonesia in 1976. Along with the high customer demand, MMC Hospital was then built and officially operated (under the ownership of PT Kosala Agung Metropolitan / PT KAM) on August 22, 1987, in the golden triangle of Kuningan area of ​​Rasuna Said, South Jakarta. MMC Hospital is the only private hospital in Indonesia supported by more than 30 sub-specialist doctors with Professor titles and more than 200 specialist doctors from various specializations in line with current developments in medical science. In order to meet the needs and expectations of patients, MMC Hospital continues to develop a Center of Excellence and Diagnostic Center complete with the latest medical equipment to support complete and accurate disease diagnosis. Our superior services are; an integrated service center for various health problems related to the digestive tract ( Digestive Cluster ), heart and all blood vessels ( Cardiovascular Cluster ), urinary tract and kidneys ( Uro-Nephrology Center ), tumors and malignancies ( Oncology Cluster ), bone surgery and rheumatology ( Comprehensive Orthopaedic and Rheumatology Center ), neurosurgery ( Neurology Cluster ), child health ( Pediatric Cluster ), fitness and health center ( Wellness Cluster ), ENT center ( ENT Cluster ) and aesthetics ( Aesthetic Cluster ). All of these service centers are served by a reliable and professional sub-specialist Doctor Team, and supported by supporting service facilities by utilizing the latest diagnostic support technology, including the availability of Magnetic Resonance Imaging (MRI ) and Multislice CT Scan.",
+                    "address": "Metropolitan Medical Centre, Jl. H. R. Rasuna Said No.C-21, RT.1/RW.7, Karet Kuningan, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12940",
+                    "website": "https://mmchospital.co.id/",
+                    "gmaps": "https://maps.app.goo.gl/gf3jTJQ8zaYenDc69",
+                    "poster_path": "https://i.ibb.co.com/DPXGqnrH/mmc.jpg",
+                    "background_path": "https://i.ibb.co.com/dZJwrSH/mmc-bg.jpg"
+                },
+                {
+                    "id": 3814227,
+                    "name": "Mayapada Hospital",
+                    "description": "Mayapada Hospital is one of the best private hospitals established by Mayapada Healthcare Group on June 1, 2008, after taking over Honoris Hospital. It is located at Jl. Honoris Raya Kav. 6, an exclusive residential area in Modern Land Tangerang. Mayapada Hospital has worked closely with Singapore's National Healthcare Group (NHG) as its commitment in providing international standard health services. As an expert in hospital management, NHG Group is responsible for top-tier hospital management such as National University Hospital (NUH), Tan Tock Seng Hospital, and Singapore's John Hopkins. This collaboration enables Mayapada Hospital to implement international standard health administration and training to improve health services and their overall structure. With the best doctors and health professionals who are competent in their respective fields, Mayapada Hospital has a good name and reputation, and has been trusted in providing high quality health services. Mayapada Hospital aims to provide international quality health services to every Indonesian and expatriate communities without having to travel abroad.",
+                    "address": "Jl. H. R. Rasuna Said No.Kav C-17, RT.2/RW.5, Karet Kuningan, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12940",
+                    "website": "https://mayapadahospital.com/hospital/mayapada-hospital-kuningan",
+                    "gmaps": "https://maps.app.goo.gl/iYmGVnnA2mNtTBgT8",
+                    "poster_path": "https://mobile.mayapadahospital.com/files/prod/master/hospital/Mayapada_Kuningan_Jkt_V2_17.webp",
+                    "background_path": "https://mayapadahospital.com/assets/banner/header00.png"
+                },
+                {
+                    "id": 919685,
+                    "name": "RS. Pondok Indah",
+                    "description": "Providing leading integrated healthcare services. Supported by professional medical personnel, the latest medical technology adoption, and more efficient digital information systems.",
+                    "address": "Jl. Metro Duta Kav. UE, Pd. Pinang, Kec. Kby. Lama, Daerah Khusus Ibukota Jakarta 12310",
+                    "website": "https://www.rspondokindah.co.id/id",
+                    "gmaps": "https://maps.app.goo.gl/efent4JdDbqNCDAh6",
+                    "poster_path": "https://pondokindah.id/wp-content/uploads/2019/11/RS-Pondok-Indah.jpg",
+                    "background_path": "https://storage.googleapis.com/rspi-assets-production/rspi-api/uploads/MTcyNjczNjEyMDgzMA==.jpg"
+                },
+                {
+                    "id": 11887676,
+                    "name": "RS. Pusat Pertamina",
+                    "description": "Established since January 6, 1972, Pertamina Central Hospital (RSPP) is the largest unit of PT. Pertamedika IHC. In its golden age, RSPP continues to move to develop itself to meet the health needs of the community, both preventive, curative, rehabilitative and post-treatment or home health care. Supported by competent and reliable health workers and the latest medical equipment, RSPP prioritizes sincerity in providing health services to customers. RSPP encourages the community to care about their health when they are not sick, including by conducting regular medical check-ups to find out their health status. Not only that, RSPP provides outpatient and inpatient services and even post-treatment services, namely home care or home health care. RSPP has superior services including the best burn care in Indonesia, 24-hour Cathlab for handling heart attacks, Ablation Treatment Room for Iodine therapy, and an international standard laboratory. As part of the community, RSPP continues to build communication with the community by providing health education offline and through the social media account platforms Facebook, Instagram and Youtube RS Pusat Pertamina. Together with the government and the community, RSPP is committed to improving the health of the community to support the next generation of the nation to be healthy and productive.",
+                    "address": "Jl. Kyai Maja No.43, Gunung, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12120",
+                    "website": "https://rspp.co.id/",
+                    "gmaps": "https://maps.app.goo.gl/Y8QvBcNK9wdGHAxi8",
+                    "poster_path": "https://rspp.co.id/uploads/img_post/img_240420241713920132LZ8CO.JPG",
+                    "background_path": "https://berlianmedia.com/wp-content/uploads/2022/09/15-Rumah-Sakit.jpg"
+                },
+                {
+                    "id": 14535855,
+                    "name": "RS. Siloam Semanggi",
+                    "description": "The flagship hospital of Siloam Hospitals Group, MRCCC Siloam Hospitals Semanggi is Indonesia’s first and largest private comprehensive cancer centre located in Semanggi area, the heart of Jakarta. Since its opening in 2011, it has grown to become one of Indonesia’s leading hospitals providing reliable, effective and high quality healthcare for all patients. This modern 30-story hospital building, which is the tallest in the Southern Hemisphere and one of the top ten tallest in the world, is a tertiary cancer centre receiving referrals from hospitals and clinics around the country for both private and insured patients, where early detection, surgical oncology, chemotherapy, and radiotherapy are housed under a single roof.",
+                    "address": "Jl. Garnisun 1 No.2-3 5, RT.5/RW.4, Karet Semanggi, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12930",
+                    "website": "https://www.siloamhospitals.com/en/rumah-sakit/mrccc-siloam-hospitals-semanggi",
+                    "gmaps": "https://maps.app.goo.gl/P4jsrJyhGbt91G8GA",
+                    "poster_path": "https://cdn-healthcare.hellohealthgroup.com/2024/06/1718951841_66751fa1653267.92174421.jpg",
+                    "background_path": "https://awsimages.detik.net.id/community/media/visual/2016/09/10/95caff71-fc50-422f-bf44-286addd3511f_169.jpg?w=600&q=90"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "thumbnail": "https://i.ibb.co.com/SwqL8P4q/local-hospital.jpg",
+            "category": "Golf Course",
+            "data": [
+                {
+                    "id": 32522237,
+                    "name": "Royale Jakarta Golf Club",
+                    "description": "-",
+                    "address": "Jl. Raya Halim Tiga, Halim Perdana Kusumah, Kec. Makasar, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13610",
+                    "website": "https://www.royalejakarta.com/",
+                    "gmaps": "https://maps.app.goo.gl/ic8rGbN5R3AGLrfk7",
+                    "poster_path": "https://i.ibb.co.com/4wd6T6Z5/royale-jakarta-golf-club.jpg",
+                    "background_path": "https://i.ibb.co.com/Tx5TBBbg/royale-jakarta-golf-club-bg.jpg"
+                },
+                {
+                    "id": 7315008,
+                    "name": "Pondok Indah Golf Course",
+                    "description": "Established on August 17, 1976, the Pondok Indah Golf Course Indah has a unique design that represent a partnership between man and nature. Each game will afford golfers opportunities for not only measuring their skills against the course, but also enjoying the beauty of the natural surrounding by playing in a relaxed setting of lush greenery and tall trees, in fresh air carrying the scent of flowers and the songs of birds. Pondok Indah Golf Course offers golfers a location where the architect has seemingly done little to disturb the natural harmony - where the golf course blends into its environment as though it had always been there. Such a paradise is rare. It is even rarer to find one located conveniently in the heart of a major city. As one of the requirement of the course design, the architect was asked to design a course with a layout for major championships (event World Cup) but capable of offerring pleasure and a fair test for both low handicap players and beginners. To meet such a demanding requirement, one of the most famous names in golf architecture was engaged - Robert Trent Jones Jr. With a philosophy of overall harmony, variety of situation and excitement without deception, he has created a course that can give pleasure to all the test the best.",
+                    "address": "Jl. Metro Pondok Indah No.16, RT.1/RW.16, Pd. Pinang, Kec. Kby. Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12310",
+                    "website": "http://www.golfpondokindah.com/",
+                    "gmaps": "https://maps.app.goo.gl/4sLLok4g9rTCk5k28",
+                    "poster_path": "https://lh3.googleusercontent.com/p/AF1QipNFKf4YPNrKt8naD7gSAXBli40jVQHbjlNj1y_X=s680-w680-h510",
+                    "background_path": "https://lh3.googleusercontent.com/p/AF1QipMbOKaoYKR0_mNBQKPlEjWUuX4_Z-_KhpHOuS-E=s680-w680-h510"
+                },
+                {
+                    "id": 9019838,
+                    "name": "Cengkareng Soewarna Golf Course",
+                    "description": "Cengkareng Golf Club is a semi-private facility that welcomes visitors alongside a roster of active members. The club has been open since 1999 and already has established itself as the club of choice for the local and expatriate communities in Jakarta. The club prides itself on its personalized attentive service and offers International standards of hospitality along with a championship golf course, presented in immaculate condition throughout the year. After hosting both the 2005 and 2008 Indonesian Opens, which are part of the European PGA tour, Cengkareng golf club has clearly defined itself as a leader in event management. The tournaments were seen by millions of TV viewers across the world.",
+                    "address": "Soekarno–Hatta International Airport, Soewarna Business Park Block G Lot 1-2, Blok G, Pajang, Kec. Benda, Kota Tangerang, Banten 15126",
+                    "website": "http://www.cengkarenggolfclub.com/",
+                    "gmaps": "https://maps.app.goo.gl/noKr8ib1jXGBTbJE9",
+                    "poster_path": "https://photo.golfasian.com/userpics/10001/Cengkareng%20Golf%20Club%20-%20Clubhouse.jpg",
+                    "background_path": "https://golf-pass.brightspotcdn.com/dims4/default/2303b00/2147483647/strip/true/crop/846x546+4+0/resize/930x600!/format/webp/quality/90/?url=https%3A%2F%2Fgolf-pass-brightspot.s3.amazonaws.com%2Ff4%2Fdd%2F44f899572f69a6984cd61637645c%2F90839.jpg"
+                },
+                {
+                    "id": 6398986,
+                    "name": "Riverside Golf Club",
+                    "description": "Riverside Golf Club is the most stunning and dramatic golf Indonesia with 18-hole par 72 championship course set along the Cikeas River within the beautiful province of Bogor, Indonesia. Designed by golf legend and great white shark Greg Norman, the 90 hectare site offers players of all levels an adrenaline-charged ride in a setting of lush natural greenery, like no other golf clubs. Unwind afterwards at our clubhouse and enjoy its award winning hospitality.",
+                    "address": "Jl. Bukit Golf Riverside, Bojong Nangka, Kec. Gn. Putri, Kabupaten Bogor, Jawa Barat 16965",
+                    "website": "http://www.cengkarenggolfclub.com/",
+                    "gmaps": "https://maps.app.goo.gl/dBtHDvtn1Mwqr9wD8",
+                    "poster_path": "https://lh3.googleusercontent.com/gps-cs-s/APrbqlUQ4ZAUKhzCvfAh-Lv628KOoRHnX1VcvcOYjHPqX5pbv9Nu7qARMISeWCiaFR_RttL30f0oWrUghH6-EJw-jOllT7TDPo0UGNby_Gx5N_eSGdkXCH9GdEtk-BnyKBA9Q9iudhs=s680-w680-h510",
+                    "background_path": "https://www.riverside-golf.com/storage/FA/RGC-HOMEPAGE-Dine.jpg"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "thumbnail": "https://i.ibb.co.com/SwqL8P4q/local-hospital.jpg",
+            "category": "Museum",
+            "data": [
+                {
+                    "id": 78529639,
+                    "name": "Museum Nasional Indonesia (Museum Gajah)",
+                    "description": "The National Museum of Indonesia or often referred to as the Elephant Museum is an archaeological, historical, ethnographic, and geographical museum that is under the auspices of the Ministry of Culture of the Republic of Indonesia and is located on Jalan Merdeka Barat 12, Central Jakarta. It is the first and largest museum in Southeast.",
+                    "address": "Jl. Medan Merdeka Barat No.12, Gambir, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110",
+                    "website": "https://www.museumnasional.or.id/",
+                    "gmaps": "https://maps.app.goo.gl/uGwE8MnPby9v3cVX6",
+                    "poster_path": "https://i.ibb.co.com/Y7kF1ZHX/museum-nasional.jpg",
+                    "background_path": "https://i.ibb.co.com/C5s6qXN0/museum-nasional-bg.jpg"
+                },
+                {
+                    "id": 25727762,
+                    "name": "Museum Fatahillah (Museum Sejarah Jakarta)",
+                    "description": "In 1626, the Dutch built a government office at the behest of Governor Jan Pieterszoon Coen, and after undergone several renovations, it was completed in 1710, officially inaugurated by Governor General Abraham van Riebeeck and served as the administrative center of the Dutch East India Company (VOC) in Batavia. This museum has a Neoclassical style building architecture that resembles the Dam Palace in Amsterdam. Fatahillah Museum is built on three floors with earthy yellow paint, and door and window frames made of dark green teak wood. In addition, this museum also has the iconic cardinal directions on the main roof. The museum took over the premises in 1974 and offers a fine glimpse into the city's colonial past. The museum provides insights into the diverse influences that have shaped the city, including indigenous cultures, Hindu-Buddhist kingdoms, Islamic sultanates, and the colonial period. Ornately adorned rooms filled with articles that chronicle the city's history, from prehistoric days, to when it was founded as Jayakarta to when it was rechristened Batavia and when it became independent.",
+                    "address": "Jl. Medan Merdeka Barat No.12, Gambir, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110",
+                    "website": "https://jakarta-tourism.go.id/article/detail/museum-fatahillah",
+                    "gmaps": "https://maps.app.goo.gl/JAzkktbk6yCWmhtB6",
+                    "poster_path": "https://storage.jakarta-tourism.go.id/public/articles/005aaf7c-0a54-4fae-b077-fae7d9aabe80.jpg",
+                    "background_path": "https://storage.jakarta-tourism.go.id/public/articles/5ff58ee3-fc93-42fe-b773-f3b6c5a71591.jpg"
+                },
+                {
+                    "id": 21581163,
+                    "name": "Museum Wayang",
+                    "description": "The Wayang Museum is a museum dedicated to Javan wayang puppetry. The museum is located in Kota Tua, Jakarta, Indonesia. It is one of several museums and galleries facing Fatahillah Square, which include the Jakarta History Museum, Fine Art and Ceramic Museum, and Kota Post Office art gallery.",
+                    "address": "Jalan Pintu Besar Utara No.27 Pinangsia, RT.3/RW.6, Kota Tua, Kec. Taman Sari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11110",
+                    "website": "https://jakarta-tourism.go.id/article/detail/museum-wayang",
+                    "gmaps": "https://maps.app.goo.gl/ES2CZW8wWWyKDHkP9",
+                    "poster_path": "https://storage.jakarta-tourism.go.id/public/articles/72b87b5c-36d8-429f-9319-b106773b7d3a.jpg",
+                    "background_path": "https://storage.jakarta-tourism.go.id/public/articles/eb0069da-bb2e-45fe-a2b7-d2809a82c32f.jpg"
+                },
+                {
+                    "id": 33154656,
+                    "name": "Museum Taman Prasasti",
+                    "description": "The cemetery was officially opened on September 28, 1797, although people had been buried here as early as 1795. The cemetery was known as Kebon Jahe Kober (recorded under this name since December 14, 1798). It was located in Kerkhoflaan and has a total area of 5.9 ha. The cemetery was built to accommodate the increasing number of death that was caused by an outbreak of disease in Batavia. Because of this outbreak, the cemetery area of the New Dutch Church (Dutch Nieuwe Hollandsche Kerk, now the Wayang Museum), Binnenkerk (an inner city Portuguese Church), and Sion Church (an outer city Portuguese Church) was full. Because of this, some of the gravestones from these cemeteries were transferred into Keboh Jahe Kober cemetery.",
+                    "address": "Jl. Tanah Abang I No.1, RT.11/RW.8, Petojo Sel., Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10160",
+                    "website": "",
+                    "gmaps": "https://maps.app.goo.gl/mmrgxLB3ZZKHth7N6",
+                    "poster_path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-fVHKcm05U126fjkjRG0LqlJLdfGq43DAXuzM0mr6TA65p58wfnI1-tQ8wbA3zXQdhli3kEkv1m8fYaoBokweu_HmK1aeHg6KCUuM3dMC-w-CNmws_DEBmC7M3Ct6IxIcxKacRancGday/s1600/museum-prasasti1.jpg",
+                    "background_path": "https://static.republika.co.id/uploads/images/headline_slide/beberapa-sudut-di-museum-taman-prasasti-jalan-tanah-abang-_190626140509-188.jpg"
+                },
+                {
+                    "id": 34734655,
+                    "name": "Museum Bank Indonesia",
+                    "description": "De Javasche Bank was formed in 1828 as a circulation bank of the Dutch East Indies and was responsible for issuing Netherlands Indies Guldens. The building stood in a plot that had been Batavia's Inner Hospital (in Dutch: Binnenhospital named inner due to its location being inside the wall), which was built in the early 18th century and was abandoned in 1780, as the central hospital was moved to Weltevreden. The building was sold to the trade firm Mac Quoid Davidson & Co. in 1801, and was purchased by De Javasche bank in 1831.",
+                    "address": "Jl. Pintu Besar Utara No.3, RT.4/RW.6, Pinangsia, Kec. Taman Sari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11110",
+                    "website": "",
+                    "gmaps": "https://maps.app.goo.gl/mWZW6JmV5YmopvRS6",
+                    "poster_path": "https://statik.tempo.co/data/2022/06/15/id_1117688/1117688_720.jpg",
+                    "background_path": "https://www.tobasatu.com/wp-content/uploads/2015/08/museum-BI-3.jpg"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "thumbnail": "https://i.ibb.co.com/SwqL8P4q/local-hospital.jpg",
+            "category": "Running Spot",
+            "data": [
+                {
+                    "id": 25200862,
+                    "name": "Menteng Park",
+                    "description": "Menteng Park is a park located in the Menteng area, Central Jakarta. The park was once occupied by Menteng Stadium. The park stands on an area of 2.9 hectares, and has a collection of 30 different plant species. Menteng Park also has a variety of supporting facilities such as playgrounds for children as well as futsal courts and basketball. Uniquely, in this park there are also 44 recharge wells to help the absorption of rainwater into the soil.",
+                    "address": "Jl. HOS. Cokroaminoto, RT.3/RW.5, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",
+                    "website": "https://jakarta-tourism.go.id/article/enjoy-wisata-alam/menteng-park",
+                    "gmaps": "https://maps.app.goo.gl/HssANUMC1pMbghov9",
+                    "poster_path": "https://i.ibb.co.com/qFVksYKG/menteng-park.jpg",
+                    "background_path": "https://i.ibb.co.com/k63FBwg8/menteng-park-bg.jpg"
+                },
+                {
+                    "id": 11975598,
+                    "name": "Suropati Park",
+                    "description": "Taman Suropati or Suropati Park is a public park located in Menteng, Jakarta, Indonesia. The park is located in the center of Menteng and is the meeting point of three streets: Teuku Umar Street, Diponegoro Street, and Imam Bonjol Street.",
+                    "address": "Jl. Taman Suropati No.5, RT.5/RW.5, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",
+                    "website": "",
+                    "gmaps": "https://maps.app.goo.gl/XBdPbhvRNrDeCapw9",
+                    "poster_path": "https://static.wixstatic.com/media/85f920_2ce2e0e83f4c4bda917b58a09f3c5f01~mv2.png/v1/fill/w_568,h_354,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/85f920_2ce2e0e83f4c4bda917b58a09f3c5f01~mv2.png",
+                    "background_path": "https://www.alinear.id/assets_web/images/article/215826_620_metrotempo-co-.jpg"
+                },
+                {
+                    "id": 17078700,
+                    "name": "GOR Soemantri",
+                    "description": "Soemantri Brodjonegoro Student Arena Stadium a multi-function Stage located in Kuningan, South Jakarta , South Jakarta . This stage primarily is used for Football . In the 2009-10 season , this stadium was used for home matches of North Jakarta.",
+                    "address": "Karet Kuningan, Setiabudi, South Jakarta City, Jakarta 12940",
+                    "website": "",
+                    "gmaps": "https://maps.app.goo.gl/FKMttVnAkYPzrEZS7",
+                    "poster_path": "https://lh3.googleusercontent.com/p/AF1QipNWd2j6KWDWc5Uyvsbxpwwvtes9aXhKlvfaCeAb=s680-w680-h510",
+                    "background_path": "https://lh3.googleusercontent.com/p/AF1QipN00tkUtJ0SiPCFrzRyJsOdnFrZvkrVobGpPlVM=s680-w680-h510"
+                },
+                {
+                    "id": 12192900,
+                    "name": "Tebet Eco Park",
+                    "description": "The Tebet Eco Park or Taman Kota Tebet is an urban park located in Tebet, Jakarta, Indonesia. The park has a land area of 7 hectares and it was previously known as Tebet Honda Park. It is a popular place for exercise, socialization, and recreation for neighboring community.",
+                    "address": "Jl. Tebet Barat Raya, RT.1/RW.10, Tebet Bar., Kec. Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12820",
+                    "website": "",
+                    "gmaps": "https://maps.app.goo.gl/XzosmTnCxCrcCQBr7",
+                    "poster_path": "https://asset.kompas.com/crops/A-XESS4w45vFFr2XzC-9-OGLn7A=/0x0:0x0/1200x800/data/photo/2022/09/11/631d640439365.jpg",
+                    "background_path": "https://miro.medium.com/v2/resize:fit:1400/0*4lP1CM04XI_ImIYH"
+                },
+                {
+                    "id": 43211865,
+                    "name": "Gelora Bung Karno Stadium",
+                    "description": "Gelora Bung Karno Main Stadium, formerly Senayan Main Stadium and Gelora Senayan Main Stadium, is a multi-purpose stadium located at the center of the Gelora Bung Karno Sports Complex in Central Jakarta, Indonesia.",
+                    "address": "Jl. Pintu Satu Senayan, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+                    "website": "https://gbk.id/",
+                    "gmaps": "https://maps.app.goo.gl/zztnrmCHKgiXxUCo7",
+                    "poster_path": "https://cdn-2.tstatic.net/tribunnews/foto/bank/images/para-pekerja-sibuk-mempersiapkan-stadion-gelora-bung-karno.jpg",
+                    "background_path": "https://assets.goal.com/images/v3/blt5a4f5390c718bd32/6d4545d9b0f405797f9c991eeadad293a387d59c.jpg?auto=webp&format=pjpg&width=3840&quality=60"
+                }
+            ]
+        }
+    ]
+}

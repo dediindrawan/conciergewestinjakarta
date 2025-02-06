@@ -1,0 +1,32 @@
+{
+    "heading": "our transportation private car service",
+    "title": "We Deliver The Ultimate Experience on Your Journey",
+    "subtitle": "Elegance and Style on Every Journey",
+    "description": "Create unforgettable memories with our luxury cars. Enjoy a stylish and comfortable ride, where every journey feels extraordinary.",
+    "services": [
+        {
+            "id": 1,
+            "type": "BMW IX",
+            "price": "IDR.999K",
+            "poster_path": "https://i.ibb.co.com/jkPDTnxx/bmw-ix.jpg"
+        },
+        {
+            "id": 2,
+            "type": "Hy. Genesis G80",
+            "price": "IDR.868K",
+            "poster_path": "https://i.ibb.co.com/fVmqgzkB/hy-genesis-g80.jpg"
+        },
+        {
+            "id": 3,
+            "type": "T. Alphard",
+            "price": "IDR.868K",
+            "poster_path": "https://i.ibb.co.com/hFfcPMRR/alphard.jpg"
+        },
+        {
+            "id": 4,
+            "type": "Hy. Ioniq 5",
+            "price": "IDR.696K",
+            "poster_path": "https://i.ibb.co.com/xqKz2ffX/hy-ioniq.jpg"
+        }
+    ]
+}

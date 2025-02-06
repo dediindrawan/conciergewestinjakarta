@@ -1,0 +1,19 @@
+{
+    "heading": "welcome to the westin jakarta",
+    "title": "Proudly Serving Guests for Over 8 Unforgettable Years",
+    "subtitle": "We Make The Best for All Our Guests",
+    "description": "Located at the top of the Gama Tower, one of Indonesia's tallest buildings, our luxury hotel in Jakarta places you near shops, restaurants, museums, and other local attractions.",
+    "avatar": "https://i.ibb.co.com/C3Kfx1F6/user-avatar.jpg",
+    "employee_name": "Hernan Mateja Helmy",
+    "job_position": "Assistant Chip Concierge",
+    "poster_path": [
+        {
+            "id": 1,
+            "path": "https://i.ibb.co.com/sSn1xTb/the-westin-jakarta.jpg"
+        },
+        {
+            "id": 2,
+            "path": "https://i.ibb.co.com/SwqcMzg7/seasonal-taste.jpg"
+        }
+    ]
+}
