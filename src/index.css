@@ -776,4 +776,20 @@
   .button-active {
     @apply text-white bg-opacity-100 !important;
   }
+
+  .error-container {
+    @apply min-h-screen p-4 grid place-items-center;
+
+    & h1 {
+      @apply text-xl font-bold;
+    }
+
+    & p {
+      @apply my-8;
+    }
+
+    & button {
+      @apply min-w-32 max-w-max mt-4 py-2 px-4 text-center rounded-md text-white bg-primary;
+    }
+  }
 }

@@ -21,7 +21,7 @@ export const GalleryDetail = () => {
   if (!content) {
     return (
       <p>
-        Content not found. Please <Link to={'/'}>go back</Link>.
+        Content not found. Please <Link to={'https://conciergewestinjakarta.vercel.app/'}>go back</Link>.
       </p>
     );
   }
