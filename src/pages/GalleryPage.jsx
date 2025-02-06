@@ -7,6 +7,7 @@ import { Button } from '../components/Button';
 import { CardImage } from '../components/CardImage';
 
 export const GalleryPage = () => {
+  // Mengambil kategori dan subkategori dari localStorage atau set ke nilai default pertama kali
   const initialCategory = JSON.parse(localStorage.getItem('activeCategory')) || dataGalleries.categories[0];
   const initialSubcategory = JSON.parse(localStorage.getItem('activeSubcategory')) || null;
 
@@ -14,8 +15,9 @@ export const GalleryPage = () => {
   const [activeSubcategory, setActiveSubcategory] = useState(initialSubcategory);
   const [contentData, setContentData] = useState([]);
 
+  // Update konten berdasarkan kategori dan subkategori
   useEffect(() => {
-    if (activeCategory.subcategories?.length && activeSubcategory) {
+    if (activeCategory?.subcategories?.length && activeSubcategory) {
       const subcategoryData = activeCategory.subcategories.find((sub) => sub.subcategory === activeSubcategory.subcategory);
       setContentData(subcategoryData?.data || []);
     } else {
@@ -25,23 +27,25 @@ export const GalleryPage = () => {
     }
   }, [activeCategory, activeSubcategory]);
 
+  // Saat kategori dipilih
   const handleCategoryClick = (category) => {
     setActiveCategory(category);
-    setActiveSubcategory(null);
+    setActiveSubcategory(null); // Reset subkategori saat kategori baru dipilih
 
     // Menentukan konten berdasarkan kategori
     const combinedData = category.subcategories?.reduce((acc, sub) => [...acc, ...sub.data], []) || category.data;
 
     setContentData(combinedData || []);
-    localStorage.setItem('activeCategory', JSON.stringify(category));
-    localStorage.removeItem('activeSubcategory');
+    localStorage.setItem('activeCategory', JSON.stringify(category)); // Menyimpan kategori ke localStorage
+    localStorage.removeItem('activeSubcategory'); // Menghapus subkategori yang lama
   };
 
+  // Saat subkategori dipilih
   const handleSubcategoryClick = (subcategory) => {
     setActiveSubcategory(subcategory);
     const subcategoryData = activeCategory.subcategories?.find((sub) => sub.subcategory === subcategory.subcategory);
     setContentData(subcategoryData?.data || []);
-    localStorage.setItem('activeSubcategory', JSON.stringify(subcategory));
+    localStorage.setItem('activeSubcategory', JSON.stringify(subcategory)); // Menyimpan subkategori ke localStorage
   };
 
   return (
