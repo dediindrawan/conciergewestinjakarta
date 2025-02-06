@@ -12,7 +12,7 @@
             "room_size": "46m²",
             "bed": "King",
             "capacity": 3,
-            "poster_path": "https://id.westinjakarta.com/resourcefiles/roomssmallimages/westin-king-room.jpg?version=11132024132351"
+            "poster_path": "https://i.ibb.co.com/0wNr72M/westin-king-room.webp"
         },
         {
             "id": 2,
@@ -21,7 +21,7 @@
             "room_size": "46m²",
             "bed": "Twin",
             "capacity": 3,
-            "poster_path": "https://id.westinjakarta.com/resourcefiles/roomssmallimages/westin-room-twin.jpg?version=11132024132351"
+            "poster_path": "https://i.ibb.co.com/FkBm25hy/westin-room-twin.webp"
         },
         {
             "id": 3,
@@ -30,7 +30,7 @@
             "room_size": "56m²",
             "bed": "King",
             "capacity": 3,
-            "poster_path": "https://id.westinjakarta.com/resourcefiles/roomssmallimages/premium-room-king.jpg?version=11132024132351"
+            "poster_path": "https://i.ibb.co.com/Zpdxrj0P/premium-room-king.webp"
         },
         {
             "id": 4,
@@ -39,7 +39,7 @@
             "room_size": "56m²",
             "bed": "Twin",
             "capacity": 3,
-            "poster_path": "https://id.westinjakarta.com/resourcefiles/roomssmallimages/westin-king-room.jpg?version=11132024132351"
+            "poster_path": "https://i.ibb.co.com/Q3yMgqZY/premium-room-twin.webp"
         },
         {
             "id": 5,
@@ -48,7 +48,7 @@
             "room_size": "68m²",
             "bed": "King",
             "capacity": 3,
-            "poster_path": "https://id.westinjakarta.com/resourcefiles/roomssmallimages/renewal-room.jpg?version=11132024132351"
+            "poster_path": "https://i.ibb.co.com/JFGJyF4b/renewal-room.webp"
         },
         {
             "id": 6,
@@ -57,7 +57,7 @@
             "room_size": "92m²",
             "bed": "King",
             "capacity": 3,
-            "poster_path": "https://id.westinjakarta.com/resourcefiles/roomssmallimages/executive-suite.jpg?version=11132024132351"
+            "poster_path": "https://i.ibb.co.com/xtvmm7LN/executive-suite.webp"
         },
         {
             "id": 7,
@@ -66,7 +66,7 @@
             "room_size": "166m²",
             "bed": "King",
             "capacity": 3,
-            "poster_path": "https://id.westinjakarta.com/resourcefiles/roomssmallimages/westin-suite.jpg?version=11132024132351"
+            "poster_path": "https://i.ibb.co.com/sSCv2VG/westin-suite.webp"
         },
         {
             "id": 8,
@@ -75,7 +75,7 @@
             "room_size": "270m²",
             "bed": "King",
             "capacity": 3,
-            "poster_path": "https://id.westinjakarta.com/resourcefiles/roomssmallimages/presidential-suite.jpg?version=11132024132351"
+            "poster_path": "https://i.ibb.co.com/TMj3njJt/presidential-suite.webp"
         }
     ]
 }

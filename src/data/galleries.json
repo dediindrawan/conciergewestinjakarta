@@ -197,6 +197,22 @@
                 },
                 {
                     "id": 3,
+                    "subcategory": "Korean",
+                    "data": [
+                        {
+                            "id": 9663537,
+                            "name": "Hanok Korean Restaurant",
+                            "description": "-",
+                            "address": "Jl. Cikajang No.2, Petogogan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12170",
+                            "website": "",
+                            "gmaps": "https://maps.app.goo.gl/ombYeoaFWhdsELv67",
+                            "poster_path": "https://lh3.googleusercontent.com/p/AF1QipMWA0iGsi6j4SUPSyesrYAFnBEu9gMBMR7MNK_w=s680-w680-h510",
+                            "background_path": "https://lh3.googleusercontent.com/p/AF1QipNyRXCyVVURCgm-1rjZRLHd-FsZN9bycPLuQK_B=s680-w680-h510"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
                     "subcategory": "Chinese",
                     "data": [
                         {
@@ -242,8 +258,8 @@
                     ]
                 },
                 {
-                    "id": 4,
-                    "subcategory": "Arabian",
+                    "id": 5,
+                    "subcategory": "Arabic",
                     "data": [
                         {
                             "id": 199783702,
@@ -258,8 +274,8 @@
                     ]
                 },
                 {
-                    "id": 5,
-                    "subcategory": "Germany",
+                    "id": 6,
+                    "subcategory": "German",
                     "data": [
                         {
                             "id": 216980473,
@@ -284,7 +300,7 @@
                     ]
                 },
                 {
-                    "id": 6,
+                    "id": 7,
                     "subcategory": "Italian",
                     "data": [
                         {
@@ -306,6 +322,48 @@
                             "gmaps": "https://maps.app.goo.gl/f7jt2GKyL6Z7gUvbA",
                             "poster_path": "https://lh3.googleusercontent.com/p/AF1QipOg64NVgUD_XeKp3Hl5QObXyOu-UCykclhMb9nT=s680-w680-h510",
                             "background_path": "https://lh3.googleusercontent.com/p/AF1QipPTXDcqshlUoNsAHUIcOQwfR_cNAyd6GQ9Koml7=s680-w680-h510"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "subcategory": "Spanish",
+                    "data": [
+                        {
+                            "id": 51712316,
+                            "name": "Plan B Spanish Resto",
+                            "description": "Restaurant with a typical Spanish menu from all regions, serving homemade desserts and Spanish wine.",
+                            "address": "Rukan Permata Senayan, Jl. Tentara Pelajar Blok D25, RT.1/RW.7, North Grogol, Jakarta, South Jakarta City, Jakarta 12210",
+                            "website": "",
+                            "gmaps": "https://maps.app.goo.gl/Z5BSN3no2RaSWD3x8",
+                            "poster_path": "https://lh3.googleusercontent.com/p/AF1QipO3Vj3uqjvMcAnIdYmryK-k1-OMjhUwJdCYVJB_=s680-w680-h510",
+                            "background_path": "https://lh3.googleusercontent.com/p/AF1QipOfWOJ425tjt38v2oo1AWUnAXz8I1Kte7SmHQSW=s680-w680-h510"
+                        },
+                        {
+                            "id": 32933785,
+                            "name": "Javanegra Gourmet Atelier",
+                            "description": "A dining place with an appointment only concept, serving a Mediterranean style omakase package menu.",
+                            "address": "Jl. Kramat Pela Raya No.212 11, RT.10/RW.7, Pulo, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12140",
+                            "website": "https://www.javanegragourmet.com/",
+                            "gmaps": "https://maps.app.goo.gl/neizoD9Nhj6nngVS7",
+                            "poster_path": "https://lh3.googleusercontent.com/p/AF1QipPIp6CYcSiyTWuQqoHIpi18aN7N3M8HDVhRq5mj=s680-w680-h510",
+                            "background_path": "https://lh3.googleusercontent.com/p/AF1QipNSSv7f2q52Je8LEKJTkqeqbkhNoqm6CQlN0Hvu=s680-w680-h510"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "subcategory": "Vietnamese",
+                    "data": [
+                        {
+                            "id": 52705777,
+                            "name": "Pho 24",
+                            "description": "-",
+                            "address": "Jl. Prof. DR. Satrio, RT.18/RW.4, Kuningan, Karet Kuningan, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12940",
+                            "website": "",
+                            "gmaps": "https://maps.app.goo.gl/ApTEe8LwtNXvUVkN9",
+                            "poster_path": "https://lh3.googleusercontent.com/gps-cs-s/APrbqlX_WjKlV2s-jdxmEKs0PmTkenWtfjWI0KjFNR5BLJFnRqQh2uHmJ81IgjJ6QILgBnyGKMauHPCW2xvlUQD-BoFRuS4PeqC2oPZ8pDFEHFanAn2YyrBMvU3A7sT44nWY4z0MIw=s680-w680-h510",
+                            "background_path": "https://lh3.googleusercontent.com/p/AF1QipOFzTsttsAy80DJL8JfIabqzlB_IkXVpjm6jWep=s680-w680-h510"
                         }
                     ]
                 }
