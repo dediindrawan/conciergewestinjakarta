@@ -44,6 +44,10 @@ const router = createBrowserRouter([
     path: '/gallery-detail/:id',
     element: <GalleryDetail />,
   },
+  {
+    path: '*',
+    element: <ErrorPage />,
+  },
 ]);
 
 createRoot(document.getElementById('root')).render(
