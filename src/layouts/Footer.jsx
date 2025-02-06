@@ -54,7 +54,7 @@ export const Footer = () => {
 
           <figure className="qr-code">
             <span>
-              <CardImage src={dataFooter.code_path} loading='lazy' />
+              <CardImage src={dataFooter.code_path} loading="lazy" />
             </span>
             <figcaption>
               Scan me to get faster <span>open this web</span>
@@ -64,7 +64,7 @@ export const Footer = () => {
       </div>
 
       <span className="copyright">
-        &copy; {new Date().getFullYear()} | <Link to={'/'}>Concierge The Westin Jakarta</Link>
+        &copy; {new Date().getFullYear()} | <Link to={'https://conciergewestinjakarta.vercel.app/'}>Concierge The Westin Jakarta</Link>
       </span>
     </footer>
   );
