@@ -283,7 +283,9 @@
             @apply border-primary;
           }
 
-          & .table-list {
+          & .table-list,
+          & .caution,
+          & br {
             @apply hidden;
           }
 
@@ -529,6 +531,14 @@
                 }
               }
             }
+          }
+
+          & .caution {
+            @apply inline-block italic;
+          }
+
+          & br {
+            @apply inline-block;
           }
 
           & a {

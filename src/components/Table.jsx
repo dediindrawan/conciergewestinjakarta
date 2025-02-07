@@ -6,7 +6,7 @@ export const Table = ({ caption, title, body, ...props }) => {
         <thead>{title}</thead>
         <tbody>{body}</tbody>
       </table>
-      <small className="italic">* Please note that the prices or rates listed are subject to change at any time without prior notice.</small> <br />
+      <small className="caution">* Please note that the prices or rates listed are subject to change at any time without prior notice.</small> <br />
     </>
   );
 };
