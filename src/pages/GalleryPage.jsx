@@ -5,6 +5,7 @@ import dataGalleries from '../data/galleries.json';
 import { Banner } from '../layouts/Banner';
 import { Button } from '../components/Button';
 import { CardImage } from '../components/CardImage';
+import { Attention } from '../layouts/Attention';
 
 export const GalleryPage = () => {
   // Mengambil kategori dan subkategori dari localStorage atau set ke nilai default pertama kali
@@ -53,6 +54,8 @@ export const GalleryPage = () => {
       <Banner title={dataGalleries.title} page="Spots Gallery" />
 
       <main className="main-gallery">
+        <Attention />
+        
         {/* Tombol Kategori */}
         <section className="category-button">
           <h3>Category:</h3>

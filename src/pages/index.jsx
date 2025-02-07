@@ -4,6 +4,7 @@ import { Product } from '../layouts/Product';
 import { Gallery } from '../layouts/Gallery';
 import { Service } from '../layouts/Service';
 import { Flyer } from '../layouts/Flyer';
+import { Attention } from '../layouts/Attention';
 
 export const HomePage = () => {
   return (
@@ -11,6 +12,7 @@ export const HomePage = () => {
       <Jumbotron />
 
       <main id="main-home" className="main-home">
+        <Attention />
         <Intro />
         <Product />
         <Gallery />
